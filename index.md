@@ -3,9 +3,6 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
+Alyson Lalata is an Information Technology major at the University of Central Florida with aspirations of becoming an IT professional. She is proficient in programming languages such as Java, C, Python, and HTML, and she has a strong foundation in cybersecurity and database management through her coursework. Alyson is certified in *IT Fundamentals Pro* by TestOut, showcasing her commitment to mastering core IT concepts. Her academic projects have allowed her to develop critical problem-solving and time management skills, demonstrating her ability to thrive under pressure and deliver successful outcomes. These experiences, combined with her dedication to learning and growth, position her as a capable and motivated candidate in the IT field.
 
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
-
-[Start Here instructional page for copying this website](starthere.md)
-<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
+<center><img src="https://cdn.shopify.com/s/files/1/1426/3142/files/shutterstock_2459930529_480x480.jpg?v=1724300172"></center>
