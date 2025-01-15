@@ -1,7 +1,7 @@
 [Home](index.md) | [Deliverables](deliverables.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md)
 
 ## This page features Reflective Blogs that showcase Alyson Lalata's understanding of the course texts and her exploration of new genres.
-AI was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency.
+ChatGPT was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency.
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
