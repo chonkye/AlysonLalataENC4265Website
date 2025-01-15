@@ -3,3 +3,5 @@
 # Chatbot
 ## Assignemt Rationale
 This assigment is a short video Alyson Lalata explains how to complete a chosen procedure
+
+AI tools were not used to generate this page
