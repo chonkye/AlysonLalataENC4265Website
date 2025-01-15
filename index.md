@@ -7,4 +7,4 @@ Alyson Lalata is an Information Technology major at the University of Central Fl
 
 <center><img src="https://cdn.shopify.com/s/files/1/1426/3142/files/shutterstock_2459930529_480x480.jpg?v=1724300172"></center>
 
-AI was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency.
+ChatGPT was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency.
