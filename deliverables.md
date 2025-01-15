@@ -1,6 +1,7 @@
 [Home](index.md) | [Deliverables](deliverables.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md)
 
 This page consists of the deliverable assigments that Alyson Lalata's has submitted for the course ENC4365
+AI tools were not used to generate this page
 
 # Website SetUp
 ## Assigment Rationale
