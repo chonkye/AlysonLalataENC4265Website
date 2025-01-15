@@ -2,3 +2,4 @@
 
 # Manual Assessment Memo
 ![Memo formatting image](memoLabels.jpg) 
+
