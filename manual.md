@@ -2,4 +2,4 @@
 
 # Manual 
 This assignment will explain the basic operating procedures of a complicated product 
-AI tools were not used to generate this page
+AI tools were not used to generate this page 
