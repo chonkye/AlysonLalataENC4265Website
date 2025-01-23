@@ -13,50 +13,34 @@ ChatGPT was utilized in the creation of this page, serving as a tool for spellch
 This assignment asks you to explore websites that don't follow contemporary standards in order to think critically about what standards you as a visitor have come to expect and to contemplate why these designs have become so standard across so many different types of sites.
 
 ---
+
+<left>![Target Home Page on January 12, 1998](target.01121998.png)</left>
+![Target Home Page on January 21, 2025](target.01232025.png)
+
 1/23/2025
+### Reflecting on Early Website Design: Target in 1998 vs. 2025
 
-Using the Wayback Machine, I analyzed the Target website from January 12, 1998, and
-compared it to the website as of January 21, 2025. Over this 27-year span, the differences in
-website composition and functionality are striking.
+Using the Wayback Machine, I analyzed the Target website from January 12, 1998, and compared it to the website as of January 21, 2025. Over this 27-year span, the differences in website composition, layout, and functionality were striking, shedding light on how website norms have evolved and how these changes shape the user experience.
 
-The current Target website is vibrant and highly visual, tailored to the upcoming Valentine’s Day
-holiday. It prominently features large, colorful images and banners encouraging shoppers to
-view Target as their “one-stop shop” for Valentine’s Day. Scrolling down the homepage reveals
-sections for trending items, New Year wellness products, Super Bowl essentials, current
-discounts, décor, Lunar New Year items, and featured categories. The homepage is extensive,
-packed with content designed to grab attention and encourage interaction.
-In contrast, the 1998 Target website has a simple, minimal layout. The homepage features a
-single large box in the center, divided into smaller sections promoting various services like the
-Washington Monument Restoration donation, the wedding gift registry, the Lullaby Club or baby
-gift registry, the Target credit card, guest services, and school uniforms. There’s no mention of
-Valentine’s Day or any seasonal promotions on the homepage. Even when exploring other links
-on the site, I found no dedicated page for seasonal items, which surprised me given the
-proximity to the holiday.
+### Surprising and Out-of-the-Ordinary Elements
+The 1998 Target website surprised me with its minimalism and the presence of unexpected features. The homepage prominently displayed a box divided into smaller sections, advertising things like the Washington Monument Restoration donation, the Lullaby Club (a baby gift registry), and school uniforms. The inclusion of these elements, especially the detailed advocacy for school uniforms as a way to prevent children from being “approached by gangs,” felt out of place compared to today’s streamlined, product-focused websites. I felt that now companies leave a lot of their beliefs and options out of the public eye and especially off of their website so they do not deter any potential customers away. 
 
-Another notable difference is the 1998 website’s lack of color and visual appeal. While there
-were some photos, most pages were dominated by text-heavy descriptions. For instance,
-selecting &quot;school uniforms&quot; from the homepage led to a page advocating for the benefits of
-wearing and purchasing school uniforms. It even included a statement about how uniforms
-could prevent children from being “approached by gangs” due to a lack of “gang colors or attire.”
-The amount of text on this page starkly contrasts with the minimal, concise descriptions on the
-modern website.
+Another surprising aspect was the lack of seasonal or promotional content. Despite the proximity to Valentine’s Day, the 1998 site did not feature any related promotions or imagery. This absence of such timely, engaging content felt odd when compared to the modern Target site, which prominently features holiday themes and tailored shopping sections.
 
-The 2025 Target website is much more user-friendly, featuring intuitive navigation with drop-
-down menus and prominent, engaging calls to action. Phrases like “From $5,” “Find cute
-Valentine’s Day looks everyone will love,” and “All the top deals in one place” are designed to
-attract attention and encourage interaction. This focus on engagement is a standard practice
-across modern websites, and it was jarring to see how bare and unappealing the 1998 website
-felt in comparison.
+### Expected Website Norms and Modern Standards
+Today, we expect websites to be visually appealing, highly interactive, and intuitive. The 2025 Target website highlights these norms with vibrant visuals, drop-down menus, and engaging calls to action like “Find cute Valentine’s Day looks everyone will love” or “All the top deals in one place.” Modern websites are designed to encourage user interaction and make user navigation seamless. These features stand in stark contrast to the 1998 Target site, which lacked intuitive navigation tools and relied on text-heavy descriptions with minimal visual appeal.
+One notable difference is the modern focus on interactivity and personalization. The current Target site includes sections for trending items, discounts, and even Lunar New Year categories, tailoring the experience to different user interests. By comparison, the 1998 site felt static and functional—more of a basic tool than an engaging digital storefront.
 
-Additionally, using the 1998 website was noticeably less convenient. Without drop-down menus
-or an easily accessible navigation system, I had to repeatedly use the browser’s back button to
-return to previous pages. The old website seemed primarily functional, serving as a tool for
-checking if a specific item was available; While the current website feels like an expansive
-digital storefront, showcasing everything the business has to offer.
-Even when looking at the Target website from January 2005, I found that it still lacked the color,
-visual appeal, and promotional content seen on the 2025 site. The evolution of the Target
-website reflects broader changes in web design and user expectations, emphasizing ease of
-use, visual appeal, and interactivity in modern internet experiences.
+### The Experience of Visiting an Outdated Website
+As a modern internet user, visiting the 1998 Target website was jarring. The lack of any drop-down menus or a cohesive navigation system made it unpleasant to explore, requiring me to rely on the browser’s back button to move between pages. This clunky navigation contrasted sharply with the effortless experience of scrolling and clicking through the 2025 site.
+The outdated design also felt visually uninviting. The limited use of color and imagery made the site feel bland and uninspired, which likely would not hold the attention of today’s users accustomed to vibrant, dynamic websites. While the modern Target site is designed to encourage prolonged browsing and impulse purchases, the 1998 site seemed solely focused on selling items people were specifically looking for and not trying to rope them into buying more.
+
+### Broader Reflections on Web Design Evolution
+The evolution of the Target website mirrors broader trends in web design and technology. In 1998, slower internet speeds and less sophisticated design tools meant websites were often text-heavy and minimalist. I feel that back then, any type of website would have sufficed because there was not such rigor competition for consumers’ attention. Today, faster connections, mobile accessibility, and the rise of e-commerce have made rich visuals, interactivity, and personalization standards.
+This assignment highlighted just how much our expectations for websites have changed. Elements like drop-down menus, personalized recommendations, and seasonal promotions is so common that their absence feels unnatural. Visiting the 1998 Target site was a stark reminder of how far web design has come and how integral modern norms are to creating an engaging user experience.
+
+
+
 # Quick Start Guide
 
 ## Assignment Rationale 
