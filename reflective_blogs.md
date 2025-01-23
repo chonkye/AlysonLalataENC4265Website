@@ -17,8 +17,7 @@ This assignment asks you to explore websites that don't follow contemporary stan
 <left>![Target Home Page on January 12, 1998](target.01121998.png)</left>
 ![Target Home Page on January 21, 2025](target.01232025.png)
 
-1/23/2025
-### Reflecting on Early Website Design: Target in 1998 vs. 2025
+### Target in 1998 vs. 2025
 
 Using the Wayback Machine, I analyzed the Target website from January 12, 1998, and compared it to the website as of January 21, 2025. Over this 27-year span, the differences in website composition, layout, and functionality were striking, shedding light on how website norms have evolved and how these changes shape the user experience.
 
