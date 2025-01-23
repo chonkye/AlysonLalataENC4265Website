@@ -36,6 +36,8 @@ Modern websites prioritize visual appeal, interactivity, and intuitive navigatio
 These features stand in stark contrast to the 1998 Target site, which lacked intuitive navigation tools and relied on text-heavy descriptions with minimal visual appeal. Its static design and limited functionality made it feel more like a basic tool than an engaging digital store. The bottom menu provided few paths to other sections and lacked the flexibility of modern navigation systems.
 
 ### The Experience of Visiting an Old Version of the Target Website
+![Target Uniform Page on January 12, 1998](target.01121998.uniform.png)
+<p style="text-align:center;">Figure 1.1 - "Target Uniform Page on January 12, 1998." https://web.archive.org/web/19980112113217/http://www.target.com/TargetWWW/schooluniforms/index.html/. Accessed 21 Jan. 25.</p>
 As a modern internet user, I had difficulty using visiting the 1998 Target website. The lack of any drop-down menus or a cohesive navigation system made it unpleasant to explore, requiring me to rely on the browser’s back button to move between pages. This clunky navigation sharply contrasts with the effortless experience of scrolling and clicking through the 2025 site.
 
 The outdated design also felt visually uninviting. The outdated design was visually bland, with limited use of color, imagery, and fonts. While the modern Target site is designed to encourage prolonged browsing and impulse purchases, the 1998 site seemed solely focused on selling items people were specifically looking for and not trying to rope them into buying more.
