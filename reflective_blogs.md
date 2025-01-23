@@ -26,25 +26,27 @@ This assignment asks you to explore websites that don't follow contemporary stan
 Using the Wayback Machine, I analyzed the Target website from January 12, 1998, and compared it to the website as of January 21, 2025. Over this 27-year span, the differences in website composition, layout, and functionality were striking, shedding light on how website norms have evolved and how these changes shape the user experience.
 
 ### Surprising and Out-of-the-Ordinary Elements
-The 1998 Target website surprised me with its minimalism and the presence of unexpected links to pages of text. The homepage prominently displayed a box divided into smaller sections, advertising things like the Washington Monument Restoration donation, the Lullaby Club (a baby gift registry), and school uniforms (see fig. 1.1). Having these photo links displayed on the sites homepage, especially the detailed advocacy for school uniforms as a way to prevent children from being “approached by gangs,” felt out of place compared to today’s streamlined, product-focused websites. I feel that now companies leave a lot of their beliefs and options out of the public eye and especially off of their website so they do not deter any potential customers away. 
+The 1998 Target website featured minimalism and unexpected links to pages of text. The homepage displayed a box divided into smaller sections, advertising the Washington Monument Restoration donation, the Lullaby Club (a baby gift registry), and school uniforms (see fig. 1.1). The promotion for school uniforms to prevent children from being "approached by gangs" stood out as unconventional and out of pleace compared to modern product-focused websites, where companies often avoid publicizing beliefs that might deter potential customers.
 
 Another surprising aspect was the lack of seasonal or promotional content. Despite the proximity to Valentine’s Day, the 1998 site did not feature any related promotions or imagery. This absence of such timely, engaging content felt like a missed opportunity when compared to the modern Target site, which prominently features holiday themes and tailored shopping sections.
 
 ### Expected Website Norms and Modern Standards
-Today, we expect websites to be visually appealing, highly interactive, and intuitive. The 2025 Target website highlights these norms with vibrant visuals, drop-down menus, and engaging calls to action like “Find cute Valentine’s Day looks everyone will love” (see fig. 1.2) or “All the top deals in one place.” Modern websites are designed to encourage user interaction and make user navigation seamless. These features stand in stark contrast to the 1998 Target site, which lacked intuitive navigation tools and relied on text-heavy descriptions with minimal visual appeal. While there was a menue at the bottom of the screen, it does not function as well/ have as many paths to other parts of the site compared to the 2025 site. One notable difference is the modern focus on interactivity and personalization. The current Target site includes sections for trending items, discounts, and even Lunar New Year categories, tailoring the experience to different user interests. By comparison, the 1998 site felt static and functional—more of a basic tool than an engaging digital store.
+Modern websites prioritize visual appeal, interactivity, and intuitive navigation. The 2025 Target website utilizes these standards with vibrant visuals, drop-down menus, and calls to action such as “Find cute Valentine’s Day looks everyone will love” (see fig. 1.2) or “All the top deals in one place.” Features like trending items, discounts, and Lunar New Year categories showcase a focus on personalization and engagement.
+
+These features stand in stark contrast to the 1998 Target site, which lacked intuitive navigation tools and relied on text-heavy descriptions with minimal visual appeal. Its static design and limited functionality made it feel more like a basic tool than an engaging digital store. The bottom menu provided few paths to other sections and lacked the flexibility of modern navigation systems.
 
 ### The Experience of Visiting an Old Version of the Target Website
-As a modern internet user, visiting the 1998 Target website was what I expected it to look and function as. The lack of any drop-down menus or a cohesive navigation system made it unpleasant to explore, requiring me to rely on the browser’s back button to move between pages. This clunky navigation sharply contrasts with the effortless experience of scrolling and clicking through the 2025 site.
+As a modern internet user, I had difficulty using visiting the 1998 Target website. The lack of any drop-down menus or a cohesive navigation system made it unpleasant to explore, requiring me to rely on the browser’s back button to move between pages. This clunky navigation sharply contrasts with the effortless experience of scrolling and clicking through the 2025 site.
 
-The outdated design also felt visually uninviting. The limited use of color and imagery made the site feel bland and uninspired, which likely would not hold the attention of today’s users accustomed to vibrant, dynamic websites. Even the font used made me feel like I was using a very old website. While the modern Target site is designed to encourage prolonged browsing and impulse purchases, the 1998 site seemed solely focused on selling items people were specifically looking for and not trying to rope them into buying more.
+The outdated design also felt visually uninviting. The outdated design was visually bland, with limited use of color, imagery, and fonts. While the modern Target site is designed to encourage prolonged browsing and impulse purchases, the 1998 site seemed solely focused on selling items people were specifically looking for and not trying to rope them into buying more.
 
 ### Broader Reflections on Web Design Evolution
 The evolution of the Target website mirrors broader trends in web design and technology. I feel that back then, any type of website would have sufficed because there was not such rigor competition for consumers’ attention. Today, faster connections, mobile accessibility, and the rise of online shopping have made rich visuals, interactivity, and personalization the standard.
 
 This assignment highlighted just how much our expectations for websites have changed. Elements like drop-down menus, personalized recommendations, and seasonal promotions is so common that their absence feels unnatural. Visiting the 1998 Target site was a stark reminder of how far web design has come and how integral modern norms are to creating an engaging user experience.
 
-
-
+---
+---
 # Quick Start Guide
 
 ## Assignment Rationale 
