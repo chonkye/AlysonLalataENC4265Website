@@ -14,7 +14,7 @@ This assignment asks you to explore websites that don't follow contemporary stan
 
 ---
 
-<left>![Target Home Page on January 12, 1998](target.01121998.png)</left>
+![Target Home Page on January 12, 1998](target.01121998.png)
 ![Target Home Page on January 21, 2025](target.01232025.png)
 
 ### Target in 1998 vs. 2025
