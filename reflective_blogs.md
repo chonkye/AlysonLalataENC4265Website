@@ -53,8 +53,9 @@ This assignment highlighted just how much our expectations for websites have cha
 # Quick Start Guide
 
 ## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
-Vintage Assignment
+Changes in technology can cause disruptive changes across many industries! On the job in the computer industry, it is likely that you will be asked to complete quick-start guides, tutorials, instructional videos, and manuals in a very short amount of time. Other careers may also require these skills, and given how many of us rely on computers in our daily lives, the updates that are constantly being pushed out, unfortunately, sometimes seem to take the approach of "update now, explain the update to users later" (anybody remember Windows 8Links to an external site.?).
+
+You need to be able to quickly figure out a platform on your own, and then clearly explain how to use it in writing, image, or video (or a combination of these).
 
 ---
 <p align="center">
