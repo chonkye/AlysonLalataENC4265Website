@@ -54,6 +54,7 @@ This assignment highlighted just how much our expectations for websites have cha
 
 ## Assignment Rationale 
 This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+Vintage Assignment
 
 ---
 <p align="center">
@@ -81,14 +82,14 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 
 ### Step 3: Power on the Laptop
 
-   Now that the computer is charging and all protective plastic has been removed, it is time to power on the laptop
+   Now that the computer is charging and all protective plastic has been removed, power on the laptop
    - Locate the power button: Inspect the device for its power button, it can typically be found on the side of the device or on or above the keyboard
    - Press the power button: Press the power button once for 2 seconds to turn on the laptop.
    - Wait for the “Welcome” screen: Allow the laptop to boot up and display the Windows setup screen.
 
 ### Step 4: Open Command Prompt
 
-   With the computer now and displaying the “Welcome” screen, it is time to open the command prompt.
+   With the computer now and displaying the “Welcome” screen, open the command prompt.
    - Activate Command Prompt: While still on the “Welcome” screen, press “Shift” +” F10” on the keyboard. This will open the black Command Prompt window
       - If the keyboard does not have the function keys, press “Shift” +” Fn” +”F10” on the keyboard.
 
@@ -104,7 +105,7 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
    - Allow the Laptop to reset: Entering this command will automatically reset the device.
 
 ### Step 6: Complete the Setup Process
-   With the device now reset, there will no longer be the Wi-Fi connection and the Microsoft account. 
+   Now that the device is reset, there will no longer be the Wi-Fi connection and the Microsoft account. 
 
 <p align="center">
   <img src= "WIFI.01282025.png" alt = "Windows Wi-Fi screen">
@@ -117,12 +118,12 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
       - Optional: Create a password to protect the device
 
 ### Step 7: Finalize the setup
+
+   With the first half of the setup complete, its now to finish up the setup process. 
 <p align="center">
   <img src= "MakingSureEverythingIsReadyToGo.01282025.png" alt = "Making Sure Everything is Ready to Go">
 </p>
 <p style="text-align:center;">Figure 1.4 - Blasac, Nathan. “Testing Autopilot on Windows 11 with SCCM Client Install.” Medium, Nathan Blasac - Notes from the Field, 9 July 2021, nathanblasac.com/testing-autopilot-on-windows-11-with-sccm-client-install-e89dfeaebd04. </p>
-
-   With the first half of the setup complete, its now to finish up the setup process. 
    - Answer the remaining prompts: Configure the settings to your preferences, or agree to default settings by pressing the “Enter” key.
    - Wait for the final configurations: A screen saying “Making sure everything is ready to go. Don’t turn off your PC” will appear. Do not turn the device off and keep the device plugged and wait to finalize the setup.
 
