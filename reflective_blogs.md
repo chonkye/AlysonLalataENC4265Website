@@ -16,6 +16,7 @@ This assignment asks you to explore websites that don't follow contemporary stan
 ### Target in 1998 vs. 2025
 
 ![Target Home Page on January 12, 1998](target.01121998.png)
+
 <p style="text-align:center;">Figure 1.1 - "Target Home Page on January 12, 1998." Https://Web.Archive.Org/Web/19980112113113/Http://Www.Target.Com/. Accessed 21 Jan. 25.</p>
 
 ![Target Home Page on January 21, 2025](target.01232025.png)
@@ -55,7 +56,10 @@ This assignment highlighted just how much our expectations for websites have cha
 This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
 
 ---
-![Windows 11 Logo](Windows11.png)
+<p align="center">
+  <img src= "Windows11.png" alt = "Windows 11 Logo.">
+</p>
+
 <p style="text-align:center;">Figure 1.1 - "Windows 11 Logo." https://news.microsoft.com/. Accessed 28 Jan. 25. </p>
 
 ## Setting Up a Windows 11 Laptop Without Logging into a Microsoft Account
@@ -91,7 +95,9 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 ### Step 5: Execute the Bypass Command
 
    Once the command prompt is open, enter the command to bypass the Wi-Fi connection and the Microsoft account. 
-![Windows Command Prompt](CommandPrompt.01282025.png)
+<p align="center">
+  <img src= "CommandPrompt.01282025.png" alt = "Windows Command Prompt.">
+</p>
 <p style="text-align:center;">Figure 1.2 - "Windows Command Prompt." Accessed 28 Jan. 25. </p>
 
    - Type in the command: Click anywhere in the command prompt window and type in **oobe\bypassnro** and press enter.
@@ -100,8 +106,10 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 ### Step 6: Complete the Setup Process
    With the device now reset, there will no longer be the Wi-Fi connection and the Microsoft account. 
 
-![Windows Wi-Fi screen](WIFI.01282025.png)
-<p style="text-align:center;">Figure 1.2 - Yee, Alaina, and PCWorld Senior Editor. “Setting up a Local Account in Windows 11 Is Tricky. Here’s How to Do It.” PCWorld, 19 May 2023, www.pcworld.com/article/1921608/how-to-set-up-a-local-account-in-windows-11.html. </p>
+<p align="center">
+  <img src= "WIFI.01282025.png" alt = "Windows Wi-Fi screen">
+</p>
+<p style="text-align:center;">Figure 1.3 - Yee, Alaina, and PCWorld Senior Editor. “Setting up a Local Account in Windows 11 Is Tricky. Here’s How to Do It.” PCWorld, 19 May 2023, www.pcworld.com/article/1921608/how-to-set-up-a-local-account-in-windows-11.html. </p>
 
    - Answer the initial setup questions: The computer will prompt you to select your language, region and keyboard layout. Answer to your preferred selection.
    - Choose “Choose with Limited setup”: In the bottom right of the Wii-Fi selection screen, select the “Choose with Limited setup” option.
@@ -109,8 +117,10 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
       - Optional: Create a password to protect the device
 
 ### Step 7: Finalize the setup
-![Windows Wi-Fi screen](MakingSureEverythingIsReadyToGo.01282025.png)
-<p style="text-align:center;">Figure 1.3 - Blasac, Nathan. “Testing Autopilot on Windows 11 with SCCM Client Install.” Medium, Nathan Blasac - Notes from the Field, 9 July 2021, nathanblasac.com/testing-autopilot-on-windows-11-with-sccm-client-install-e89dfeaebd04. </p>
+<p align="center">
+  <img src= "MakingSureEverythingIsReadyToGo.01282025.png" alt = "Making Sure Everything is Ready to Go">
+</p>
+<p style="text-align:center;">Figure 1.4 - Blasac, Nathan. “Testing Autopilot on Windows 11 with SCCM Client Install.” Medium, Nathan Blasac - Notes from the Field, 9 July 2021, nathanblasac.com/testing-autopilot-on-windows-11-with-sccm-client-install-e89dfeaebd04. </p>
 
    With the first half of the setup complete, its now to finish up the setup process. 
    - Answer the remaining prompts: Configure the settings to your preferences, or agree to default settings by pressing the “Enter” key.
