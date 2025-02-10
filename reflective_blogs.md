@@ -152,14 +152,14 @@ Microsoft Copilot was used as the generative AI tool in this assignment
 I was pleasantly surprised on what Microsoft Copilot was able to generate. First I researched what the proper components of a Status report is, and then crafted the prompt that I wanted the AI to use. I am already familiar with the phases and processes of creating a 2D platformer game, so I thought it was best that I used this as the subject of the report. 
 
 <p align="center">
-  <img src= "StatusReport1" alt = "Copilot's First Generated Status Report">
+  <img src= "StatusReport1.png" alt = "Copilot's First Generated Status Report">
 </p>
 <p style="text-align:center;">Figure 1.1 - "Copilot's First Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
 
 The first report was highly detailed but felt overly wordy. It seemed to be written for an audience with little to no prior knowledge of the project, I didn’t specify on the type of status report (daily, weekly, monthly, internal or external) so I understood as to why the report had so much information. It effectively covered key aspects of game production, highlighting both challenges and achievements. The Progress Overview section provided an in-depth breakdown of different character design aspects. The achievements and challenges were clearly outlined, along with specific actions needed to move the project forward. 
 
 <p align="center">
-  <img src= "StatusReport2" alt = "Copilot's Second Generated Status Report">
+  <img src= "StatusReport2.png" alt = "Copilot's Second Generated Status Report">
 </p>
 <p style="text-align:center;">Figure 1.2 - "Copilot's Second Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
 
