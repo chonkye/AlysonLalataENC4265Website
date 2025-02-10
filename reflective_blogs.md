@@ -134,4 +134,41 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 
 ---
 # Reflective Blog 3
-TBD
+## Assignment Rationale 
+Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
+
+ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
+Microsoft Copilot was used as the generative AI tool in this assignment
+
+---
+## Orginal Prompt
+“can you write a status report for an on project on a 2d platformer game. Hypothetically it would be in the Production phase, doing character design.”
+
+## Revised Prompt:
+"looking back on the first report you generated, can you adjust the report so it’s in the style of a weekly status report. Can you keep it concise and use technical writing?”
+
+---
+## Assesment and reflection on what was generated 
+I was pleasantly surprised on what Microsoft Copilot was able to generate. First I researched what the proper components of a Status report is, and then crafted the prompt that I wanted the AI to use. I am already familiar with the phases and processes of creating a 2D platformer game, so I thought it was best that I used this as the subject of the report. 
+
+<p align="center">
+  <img src= "StatusReport1" alt = "Copilot's First Generated Status Report">
+</p>
+<p style="text-align:center;">Figure 1.1 - "Copilot's First Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
+
+
+Microsoft CoPilot . Accessed 2024-4-03. Prompt: ‘Summarize the Geneva Convention in 50 words.’ Generated using https://copilot.microsoft.com/.
+The first report was highly detailed but felt overly wordy. It seemed to be written for an audience with little to no prior knowledge of the project, I didn’t specify on the type of status report (daily, weekly, monthly, internal or external) so I understood as to why the report had so much information. It effectively covered key aspects of game production, highlighting both challenges and achievements. The Progress Overview section provided an in-depth breakdown of different character design aspects. The achievements and challenges were clearly outlined, along with specific actions needed to move the project forward. 
+
+<p align="center">
+  <img src= "StatusReport2" alt = "Copilot's Second Generated Status Report">
+</p>
+<p style="text-align:center;">Figure 1.2 - "Copilot's Second Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
+
+
+In contrast, the second report was much more concise. It didn’t elaborate on every detail encountered, making it more effective for quickly informing the team about that week’s progress without being overly long or difficult to read. This version appeared to be tailored for an internal audience already familiar with the project, unlike the original report. The Progress Overview was able to summarize each aspect of character design, briefly mentioned key accomplishments for the week, and included a short description of the main issues faced.
+
+Despite these differences, both reports maintained the same structure and headings, consistently providing status updates on each stage of the process (e.g., “Completed,” “70% complete”).
+
+
+
