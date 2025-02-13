@@ -166,3 +166,8 @@ The first report was highly detailed but felt overly wordy. It seemed to be writ
 In contrast, the second report was much more concise. It didn’t elaborate on every detail encountered, making it more effective for quickly informing the team about that week’s progress without being overly long or difficult to read. This version appeared to be tailored for an internal audience already familiar with the project, unlike the original report. The Progress Overview was able to summarize each aspect of character design, briefly mentioned key accomplishments for the week, and included a short description of the main issues faced.
 
 Despite these differences, both reports maintained the same structure and headings, consistently providing status updates on each stage of the process (e.g., “Completed,” “70% complete”). 
+
+One limitation I noticed was the AI’s tendency to generalize. While the structure of the reports was consistent, I found that I would need to specify areas of the prompt to align with the actual progress of the project. If I were to generate another status report, I would write my prompt so that it specifies which details to emphasize and how much explanation is needed. But with all said, I still think it would be better to write out the status report oneself and then have an AI tool compress it so that it is more concise and will know all the information that you want in the report than taking its own liberties.
+
+Through this exercise, I gained insight into both the capabilities and limitations of AI in technical writing. While Microsoft Copilot can generate structured and informative reports, the human touch remains crucial in refining the content for fact-checking, tone, and readability. 
+
