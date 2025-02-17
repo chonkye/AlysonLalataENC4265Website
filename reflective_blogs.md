@@ -6,6 +6,7 @@ ChatGPT GPT-4 was utilized in the creation of this page, serving as a tool for s
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
    
 # Wayback Analysis
 
@@ -170,4 +171,20 @@ Despite these differences, both reports maintained the same structure and headin
 One limitation I noticed was the AI’s tendency to generalize. While the structure of the reports was consistent, I found that I would need to specify areas of the prompt to align with the actual progress of the project. If I were to generate another status report, I would write my prompt so that it specifies which details to emphasize and how much explanation is needed. But with all said, I still think it would be better to write out the status report oneself and then have an AI tool compress it so that it is more concise and will know all the information that you want in the report than taking its own liberties.
 
 Through this exercise, I gained insight into both the capabilities and limitations of AI in technical writing. While Microsoft Copilot can generate structured and informative reports, the human touch remains crucial in refining the content for fact-checking, tone, and readability. 
+
+---
+# Reflective Blog 4
+## Assignment Rationale 
+
+**Prompt F**: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
+
+**Grammarly and Microsoft Word’s text correction tools were used for grammar and style checks.**
+---
+The Manual Assessment Memo was a challenging but insightful assignment. I typically don’t read full manuals, as Janice Reddish suggests in “Letting Go of the Words”, I am looking for instructions on the task I am doing rather than a complete manual (pg.106). I chose a printer manual because of its common usability frustrations. While the manual avoided redundancy, I found that it lacked clarity in some areas, making troubleshooting difficult. 
+
+One of my main challenges was ensuring my critique was constructive rather than nitpicking. I initially wrote too much, lacking the readability and briefness of a typical memo.  Using the AI tool Chat-GPT4, I felt that I was able to successfully use my technical writing to keep the assignment concise, direct, and skimmable. The AI gave me a good baseline as to what needed to be cut out to fit the parameters of the assignment, but I still rewrote what the tool gave me in my own style. I felt that the revised version made with Chat-GPT4 was brash, but that is the nature of a business professional memo. 
+
+This assignment reminded me that technical writing must be concise, and not everything needs a detailed explanation. Long-winded explanations contradicts the principles of technical writing, and I need to keep that in mind when completing future assignments. 
+
+**Grammarly and Microsoft Word’s text correction tools were used for grammar and style checks.**
 
