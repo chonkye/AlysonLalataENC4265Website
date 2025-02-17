@@ -17,10 +17,10 @@ This assignment asks you to explore websites that don't follow contemporary stan
 
 ![Target Home Page on January 12, 1998](target.01121998.png)
 
-<p style="text-align:center;">Figure 1.1 - "Target Home Page on January 12, 1998." Https://Web.Archive.Org/Web/19980112113113/Http://Www.Target.Com/. Accessed 21 Jan. 25.</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Target Home Page on January 12, 1998." Https://Web.Archive.Org/Web/19980112113113/Http://Www.Target.Com/. Accessed 21 Jan. 25.</p>
 
 ![Target Home Page on January 21, 2025](target.01232025.png)
-<p style="text-align:center;">Figure 1.2 - "Target Home Page on January 21, 2025." https://www.target.com/. Accessed 21 Jan. 25. </p>
+<p style="text-align:center;">Figure 1.2 - Screenshot by Alyson Lalata. "Target Home Page on January 21, 2025." https://www.target.com/. Accessed 21 Jan. 25. </p>
 
 ---
 
@@ -100,7 +100,7 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 <p align="center">
   <img src= "CommandPrompt.01282025.png" alt = "Windows Command Prompt.">
 </p>
-<p style="text-align:center;">Figure 1.2 - "Windows Command Prompt." Accessed 28 Jan. 25. </p>
+<p style="text-align:center;">Figure 1.2 - Screenshot by Alyson Lalata. "Windows Command Prompt." Accessed 28 Jan. 25. </p>
 
    - Type in the command: Click anywhere in the command prompt window and type in **oobe\bypassnro** and press enter.
    - Allow the Laptop to reset: Entering this command will automatically reset the device.
@@ -137,8 +137,8 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 ## Assignment Rationale 
 Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
 
-ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
-Microsoft Copilot was used as the generative AI tool in this assignment
+**ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.**
+**Microsoft Copilot was used as the generative AI tool in this assignment**
 
 ---
 ## Orginal Prompt
@@ -154,14 +154,14 @@ I was pleasantly surprised on what Microsoft Copilot was able to generate. First
 <p align="center">
   <img src= "StatusReport1.png" alt = "Copilot's First Generated Status Report">
 </p>
-<p style="text-align:center;">Figure 1.1 - "Copilot's First Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Copilot's First Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
 
 The first report was highly detailed but felt overly wordy. It seemed to be written for an audience with little to no prior knowledge of the project, I didn’t specify on the type of status report (daily, weekly, monthly, internal or external) so I understood as to why the report had so much information. It effectively covered key aspects of game production, highlighting both challenges and achievements. The Progress Overview section provided an in-depth breakdown of different character design aspects. The achievements and challenges were clearly outlined, along with specific actions needed to move the project forward. 
 
 <p align="center">
   <img src= "StatusReport2.png" alt = "Copilot's Second Generated Status Report">
 </p>
-<p style="text-align:center;">Figure 1.2 - "Copilot's Second Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
+<p style="text-align:center;">Figure 1.2 - Screenshot by Alyson Lalata. "Copilot's Second Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
 
 In contrast, the second report was much more concise. It didn’t elaborate on every detail encountered, making it more effective for quickly informing the team about that week’s progress without being overly long or difficult to read. This version appeared to be tailored for an internal audience already familiar with the project, unlike the original report. The Progress Overview was able to summarize each aspect of character design, briefly mentioned key accomplishments for the week, and included a short description of the main issues faced.
 
