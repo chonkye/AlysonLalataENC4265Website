@@ -176,9 +176,10 @@ Through this exercise, I gained insight into both the capabilities and limitatio
 # Reflective Blog 4
 ## Assignment Rationale 
 
-**Prompt F**: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
+Prompt F: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
 
 **Grammarly and Microsoft Word’s text correction tools were used for grammar and style checks.**
+
 ---
 The Manual Assessment Memo was a challenging but insightful assignment. I chose a printer manual because of its common usability frustrations. While the manual avoided redundancy, I found that it lacked clarity in some areas, making troubleshooting difficult. 
 
