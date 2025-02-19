@@ -180,11 +180,11 @@ Through this exercise, I gained insight into both the capabilities and limitatio
 
 **Grammarly and Microsoft Word’s text correction tools were used for grammar and style checks.**
 ---
-The Manual Assessment Memo was a challenging but insightful assignment. I typically don’t read full manuals, as Janice Reddish suggests in “Letting Go of the Words”, I am looking for instructions on the task I am doing rather than a complete manual (pg.106). I chose a printer manual because of its common usability frustrations. While the manual avoided redundancy, I found that it lacked clarity in some areas, making troubleshooting difficult. 
+The Manual Assessment Memo was a challenging but insightful assignment. I chose a printer manual because of its common usability frustrations. While the manual avoided redundancy, I found that it lacked clarity in some areas, making troubleshooting difficult. 
 
-One of my main challenges was ensuring my critique was constructive rather than nitpicking. I initially wrote too much, lacking the readability and briefness of a typical memo.  Using the AI tool Chat-GPT4, I felt that I was able to successfully use my technical writing to keep the assignment concise, direct, and skimmable. The AI gave me a good baseline as to what needed to be cut out to fit the parameters of the assignment, but I still rewrote what the tool gave me in my own style. I felt that the revised version made with Chat-GPT4 was brash, but that is the nature of a business professional memo. 
+One of my main challenges was ensuring my critique was constructive rather than nitpicking. I initially wrote too much, reducing the readability and conciseness expected in a memo. To refine my response, I used ChatGPT-4 to identify redundant sections while ensuring my critique remained focused.
 
-This assignment reminded me that technical writing must be concise, and not everything needs a detailed explanation. Long-winded explanations contradicts the principles of technical writing, and I need to keep that in mind when completing future assignments. 
+This assignment reminded me that technical writing must be concise, and not everything needs a detailed explanation. Based on Dr. Johnson’s feedback, I would ensure that links are clickable and eliminate unnecessary descriptors that slow the reader down. In future assignments, I will be more intentional about keeping my writing skimmable and concise while maintaining precision.
 
 **Grammarly and Microsoft Word’s text correction tools were used for grammar and style checks.**
 
