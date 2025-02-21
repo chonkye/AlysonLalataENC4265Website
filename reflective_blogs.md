@@ -135,7 +135,7 @@ When setting up a new Windows 11 laptop, Microsoft will prompt users to create a
 
 ---
 # Reflective Blog 3
-## Assignment Rationale 
+## Assignment Rationale: Prompt C
 Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
 
 **ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.**
