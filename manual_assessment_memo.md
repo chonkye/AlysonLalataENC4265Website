@@ -33,4 +33,4 @@ I recommend the following modifications to improve the manual:
 -	Enhance Wi-Fi connection troubleshooting by providing step-by-step recovery procedures for connectivity issues.
 -	Expand the ink refill instructions to include common user errors and solutions, supplemented with annotated images highlighting what to avoid.
 
-ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
+**ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.**
