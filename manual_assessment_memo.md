@@ -20,7 +20,7 @@ Analyzing other people's writing is one helpful way to better understand the con
 
 &nbsp;
 
-I conducted an evaluation of the HP Smart Tank 5101 User Manual, available at: https://www.manua.ls/hp/smart-tank-5101/manual
+I conducted an evaluation of the HP Smart Tank 5101 User Manual, available at: <https://www.manua.ls/hp/smart-tank-5101/manual>
 
 The HP Smart Tank 5101 User Manual effectively utilizes figures to identify and describe various components of the printer. Additionally, instructions involving the control panel are well-structured, as it integrates corresponding button images immediately after referring to specific actions in the instructions. The figures throughout the manual are appropriately sized, ensuring that users can easily distinguish key details without straining to interpret small or unclear visuals. Each feature of the printer is labeled effectively, allowing users to quickly identify components and understand their functions. 
 
