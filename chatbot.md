@@ -19,6 +19,8 @@ This chatbot was built using Boodlebox, an AI-powered tool designed to create in
 
 <iframe src="https://box.boodle.ai/c/def90d16-1ed3-40fd-a5e1-2169a2265fdb">
 
+[Click Here to Start Chatting](https://box.boodle.ai/c/def90d16-1ed3-40fd-a5e1-2169a2265fdb)
+
 **AI statement**
 ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency.
 Powered by Gemini 1.5 Pro 
