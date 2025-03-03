@@ -17,11 +17,14 @@ This chatbot was built using Boodlebox, an AI-powered tool designed to create in
 
 👉 How to Use: Simply start a conversation by asking a question, such as "How do I prep my nails for Gel-X?" or "Why are my Gel-X nails lifting?" The chatbot will guide you through the process step by step! 
 
+testing
 <iframe src="https://box.boodle.ai/a/@GelXChatbot"></iframe>
 
 ---
-
-<iframe src="https://box.boodle.ai/c/def90d16-1ed3-40fd-a5e1-2169a2265fdb" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+test test
+<iframe src="https://box.boodle.ai/a/@GelXChatbot" 
+        width="400" height="600" 
+        style="border: none;"></iframe>
 
 ---
 
