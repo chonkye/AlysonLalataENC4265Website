@@ -195,6 +195,9 @@ This assignment reminded me that technical writing must be concise, and not ever
 ## Assignment Rationale 
 Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
 
+**ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.**
+**GPT-Travel Poe was Chatbot tool in this assignment**
+
 ---
 
 GPT-Travel is a chatbot designed to assist tourists by suggesting destinations, activities, and general travel advice. However, my first experience with it was frustrating due to its limitations. I was expecting the cite to help me find hotels, events happening around the location I was planning to travel and more. Unfortunately the chatbot was unable to browse the internet, and instead directed me to other websites that could possiblely help.
@@ -215,4 +218,6 @@ GPT-Travel is best suited as an initial trip-planning tool rather than a full-fl
 
 While GPT-Travel can offer general travel suggestions and comparisons, its lack of real-time data and contextual awareness limit its practicality. It is best used for brainstorming rather than detailed trip planning, and users must carefully structure their inquiries to get the most relevant results.
 
+ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
+GPT-Travel Poe was Chatbot tool in this assignment
 ---
