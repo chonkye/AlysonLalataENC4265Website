@@ -201,13 +201,18 @@ GPT-Travel is a chatbot designed to assist tourists by suggesting destinations, 
 <p align="center">
   <img src= "FindHotel.png" alt = "GPT-Travel Tries to Find Cheapest Hotel">
 </p>
-<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "G{T-Travel Tries to Find Cheapest Hotel" https://poe.com/GPT-Travel. Accessed 3 Mar. .</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "G{T-Travel Tries to Find Cheapest Hotel" https://poe.com/GPT-Travel. Accessed 3 Mar.</p>
 
 **Functionality**
 GPT-Travel is useful for generating broad travel ideas and providing general estimates, but it lacks real-time information retrieval, contextual memory, and precise budgeting tools. The cite itself is pleasant to look at, similar to many other AI tools with a dark background with white text.
 
 **User Experience**
 The chatbot is easy to use and responds quickly, but its inability to retain context and reliance on pre-existing knowledge limit its effectiveness. While structured queries improve its responses, users must be very specific to get relevant answers. 
+
+<p align="center">
+  <img src= "GirlsTrip.png" alt = "GPT-Travel Compares Vacation">
+</p>
+<p style="text-align:center;">Figure 1.2 - Screenshot by Alyson Lalata. "GPT-Travel Compares Vacation" https://poe.com/GPT-Travel. Accessed 3 Mar.</p>
 
 **Context and Benefits**
 GPT-Travel is best suited as an initial trip-planning tool rather than a full-fledged travel assistant. The chatbot gives users general ideas, common tourist spots/ activities while using descriptive diction to paint each location in a positive light. It can help users brainstorm destinations and activities, but it does not replace real-time travel research. The chatbot was also able to successfully compare two different types of travel vacations when given details about the party going (Figure 1.2). Additionally, retaining memory from pervious inquiries would provide a smoother chatting experience so users do not have to repeat themselves. 
