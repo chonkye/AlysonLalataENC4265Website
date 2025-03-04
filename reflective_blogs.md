@@ -7,6 +7,7 @@ ChatGPT GPT-4 was utilized in the creation of this page, serving as a tool for s
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
    
 # Wayback Analysis
 
@@ -188,4 +189,32 @@ One of my main challenges was ensuring my critique was constructive rather than 
 This assignment reminded me that technical writing must be concise, and not everything needs a detailed explanation. Based on Dr. Johnson’s feedback, I would ensure that links are clickable and eliminate unnecessary descriptors that slow the reader down. In future assignments, I will be more intentional about keeping my writing skimmable and concise while maintaining precision.
 
 **Grammarly and Microsoft Word’s text correction tools were used for grammar and style checks.**
+---
+
+# Reflective Blog 5
+## Assignment Rationale 
+Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
+
+---
+GPT-Travel is a chatbot designed to assist tourists by suggesting destinations, activities, and general travel advice. However, my first experience with it was frustrating due to its limitations. I was expecting the cite to help me find hotels, events happening around the location I was planning to travel and more. Unfortunatly the chatbot was unable to browse the internet, and instead directed me to other websites that could possiblely help.
+
+<p align="center">
+  <img src= "FindHotel.png" alt = "GPT-Travel Tries to Find Cheapest Hotel">
+</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "G{T-Travel Tries to Find Cheapest Hotel" https://poe.com/GPT-Travel. Accessed 3 Mar. .</p>
+
+**Functionality**
+GPT-Travel is useful for generating broad travel ideas and providing general estimates, but it lacks real-time information retrieval, contextual memory, and precise budgeting tools. The cite itself is pleasant to look at, similar to many other AI tools with a dark background with white text.
+
+**User Experience**
+The chatbot is easy to use and responds quickly, but its inability to retain context and reliance on pre-existing knowledge limit its effectiveness. While structured queries improve its responses, users must be very specific to get relevant answers. 
+
+**Context and Benefits**
+GPT-Travel is best suited as an initial trip-planning tool rather than a full-fledged travel assistant. The chatbot gives users general ideas, common tourist spots/ activities while using descriptive diction to paint each location in a positive light. It can help users brainstorm destinations and activities, but it does not replace real-time travel research. The chatbot was also able to successfully compare two different types of travel vacations when given details about the party going (Figure 1.2). Additionally, retaining memory from pervious inquiries would provide a smoother chatting experience so users do not have to repeat themselves. 
+
+While GPT-Travel can offer general travel suggestions and comparisons, its lack of real-time data and contextual awareness limit its practicality. It is best used for brainstorming rather than detailed trip planning, and users must carefully structure their inquiries to get the most relevant results.
+
+
+
+
 
