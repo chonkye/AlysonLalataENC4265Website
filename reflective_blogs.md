@@ -8,6 +8,7 @@ ChatGPT GPT-4 was utilized in the creation of this page, serving as a tool for s
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
    
 # Wayback Analysis
 
@@ -221,3 +222,26 @@ While GPT-Travel can offer general travel suggestions and comparisons, its lack 
 ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
 GPT-Travel Poe was Chatbot tool in this assignment
 ---
+# Reflective Blog 6
+## Assignment Rationale 
+Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+**ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.**
+**GPT-Travel Poe was Chatbot tool analyzed in this assignment**
+
+---
+## Strengths of GPT-Travel
+GPT-Travel performs well in generating general travel recommendations. It effectively suggests destinations, activities, and vacation comparisons based on user input. Additionally, the interface is user-friendly, and responses are generated quickly, enhancing accessibility.
+
+## Limitations and Required Modifications
+Despite its strengths, GPT-Travel has notable limitations. First being that there was a lack of real-time data. The chatbot cannot retrieve up-to-date information on hotel prices, events, or travel deals. Instead, it redirects users to external websites, reducing its effectiveness as a comprehensive planning tool. There was also limited context retention, where GPT-Travel did not maintain memory across interactions. As a result, I had to re-enter details when refining their queries, leading to inefficiencies in the interaction process. Finally there was a dependency on structured queries. The chatbot performed better when given specific and structured queries. This reduced the intuitiveness of the experience, as users must refine and rephrase their inputs multiple times to obtain relevant information.
+
+## AI Training Data and Constraints
+GPT-Travel’s responses suggest that its training data consists of static travel guides, pre-existing articles, and general travel knowledge rather than dynamic, real-time sources. The dataset likely includes information on popular tourist destinations and broad budgeting estimates but excludes real-time travel updates, localized events, and dynamic pricing. 
+
+## Future Implications
+Advancements in AI technology may enhance chatbot functionality with the integration of real-time data; where the AI can access live travel databases, providing current hotel rates, flight availability, and event schedules. Improved Context Awareness for enhanced memory capabilities could enable AI to retain previous interactions, reducing the need for repeated user input.
+While GPT-Travel is a useful tool for initial trip planning, its limitations highlight the necessity of human input and supplementary research. As AI continues to evolve, it may transition from a brainstorming assistant to a fully functional travel planning system with real-time capabilities.
+
+ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
+GPT-Travel Poe was Chatbot tool analyzed in this assignment
