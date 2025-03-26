@@ -9,9 +9,10 @@ The procedure video explains how to do one specific thing and is short and to th
 **Chat-gpt 4o was utilized in the creation of the script for this assignment**
 **Wondershare DemoCreator was used as the video editing software for this assignmnet**
 
+[![Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer](VLANscreenshot.png)](https://youtu.be/FxOtBBkZVms)
 
 ## Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer
 
-[![Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer](VLANscreenshot.png)](https://youtu.be/FxOtBBkZVms)
+<p style="text-align:center;">[![Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer](VLANscreenshot.png)](https://youtu.be/FxOtBBkZVms)</p>
+<p style="text-align:center;">Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer</p>
 
-![Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer](https://youtu.be/FxOtBBkZVms)
