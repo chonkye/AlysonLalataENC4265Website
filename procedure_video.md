@@ -2,10 +2,12 @@
 
 
 # Procedure Video
+## Reason for the Assignment
+People often need help with a specific procedure that is especially complicated or difficult to explain in static text and images. Enter: video. 
+The procedure video explains how to do one specific thing and is short and to the point. It does not need to include the "why" of each step (like a tutorial does). This is simply how to do one thing.
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
+**Chat-gpt 4o was utilized in the creation of the script for this assignment**
+**Wondershare DemoCreator was used as the video editing software for this assignmnet**
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
 
-AI tools were not used to generate this page
-
+## Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer
