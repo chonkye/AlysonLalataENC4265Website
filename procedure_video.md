@@ -11,3 +11,7 @@ The procedure video explains how to do one specific thing and is short and to th
 
 
 ## Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer
+
+[![Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer](VLANscreenshot.png)](https://youtu.be/FxOtBBkZVms)
+
+![Configuring VLANs on a Cisco Switch – Step-by-Step Guide in Packet Tracer](https://youtu.be/FxOtBBkZVms)
