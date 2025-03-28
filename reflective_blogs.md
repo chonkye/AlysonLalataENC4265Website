@@ -9,6 +9,7 @@ ChatGPT GPT-4 was utilized in the creation of this page, serving as a tool for s
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 
@@ -245,3 +246,78 @@ While GPT-Travel is a useful tool for initial trip planning, its limitations hig
 
 ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool for spellchecking and ensuring clarity and consistency.
 GPT-Travel Poe was Chatbot tool analyzed in this assignment
+
+---
+# Reflexive Blog 7
+## Assignment Rationale 
+Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
+
+**ChatGPT GPT-4o was utilized in the creation of this assignment serving as the generative AI tool**
+
+---
+![Chat-GPT4o Prompt](ChatPrompt.png)
+
+<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Chat-GPT4o Prompt"</p>
+
+The assignment I had the AI generate was the Quick Start Guide; I fed the AI all the information given for the assignment from the Webcourses page, followed by "can you do this assignment on how to clean a leather purse/ bag?" giving the AI the topic that I wanted it to write about. (Figure 1.1) 
+
+Chat-GPT was able to generate the whole assignment except for the pictures rather quickly. Its response was was follows:
+
+---
+![Chat-GPT4o Response](ChatResponse.png)
+
+<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Chat-GPT4o Response"</p>
+
+
+Sure! Here's a structured quick-start guide on How to Clean a Leather Purse or Bag that meets your assignment's requirements.
+
+# Quick-Start Guide: How to Clean a Leather Purse or Bag
+Keeping your leather purse or bag clean is essential for maintaining its look and durability. This guide will walk you through the basic steps to safely clean your leather item using common household supplies.
+
+## What You’ll Need:
+Mild soap (e.g., dish soap or baby soap)
+
+Lukewarm water
+
+Soft microfiber cloths (2–3)
+
+Leather conditioner (optional but recommended)
+
+Cotton swabs (for tight spots)
+
+## Step 1: Empty the Bag and Dust Off Debris
+Before cleaning, remove all items from your bag, including any loose change or small objects hidden in pockets. Then, use a dry microfiber cloth to gently wipe away dust and dirt from the surface.
+
+📷 Figure 1. Wiping off dust with a dry microfiber cloth.
+
+## Step 2: Prepare a Mild Cleaning Solution
+In a small bowl, mix a few drops of mild soap with lukewarm water. Dip a soft microfiber cloth into the solution, wring it out so it's damp but not soaking, and prepare to wipe down the bag.
+
+📷 Figure 2. Mixing soap with lukewarm water.
+
+## Step 3: Wipe the Leather Surface
+Gently wipe the leather bag using the damp cloth in circular motions. Pay special attention to areas with stains or visible dirt. Avoid excessive water, as too much moisture can damage leather.
+
+📷 Figure 3. Gently wiping the leather with a damp cloth.
+
+## Step 4: Clean Crevices and Stitching
+Use a cotton swab dipped in the cleaning solution to carefully clean hard-to-reach areas, such as stitching, seams, or decorative details.
+
+## Step 5: Dry the Bag Immediately
+After wiping down the bag, use a dry microfiber cloth to remove excess moisture. Let the bag air dry completely at room temperature, away from direct sunlight or heat sources.
+
+## Step 6: Condition the Leather (Optional)
+Once dry, apply a small amount of leather conditioner using a clean cloth. Buff it in gently to restore moisture and maintain the bag’s softness.
+
+## Final Tips
+✅ Do NOT use harsh chemicals like alcohol, acetone, or vinegar—these can damage leather.
+✅ Test on a small area first before cleaning the entire bag.
+✅ Store your bag properly in a dust bag when not in use.
+
+This guide helps you clean your leather purse or bag quickly and safely. Follow these steps regularly to keep your bag looking as good as new!
+
+Would you like any adjustments or additional details? 😊
+
+---
+
+Something that I got critiqued on was how I numbered my manual, the AI also numbered the heading which is not how it’s supposed to be. The guide uses items that are readily available in most households, making it accessible for a wide audience. But the captions provided were not that descriptive as to what should be in the picture and were not formatted properly. There were spots where I am to insert visuals to help enhance the guide and meet the assignment requirements. I found the diction and tone used to match the professional and instructional feel that the assignment calls for. There was consistency issues on the wordage used to describe certain items. For example, the term “mild soap” and “baby soap” are used interchangeably, but the guide should only refer to a product using the same term throughout to not confuse the reader. I think the guide could also use bullet points or bolding key terms within each step to make the guide even more skimmable. At the end of the guide there are helpful tips so that the user doesn’t damage their leather item.
