@@ -248,7 +248,7 @@ ChatGPT GPT-4 was utilized in the creation of this assignment, serving as a tool
 GPT-Travel Poe was Chatbot tool analyzed in this assignment
 
 ---
-# Reflexive Blog 7
+# Reflective Blog 7
 ## Assignment Rationale 
 Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
 
