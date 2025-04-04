@@ -10,6 +10,7 @@ ChatGPT GPT-4 was utilized in the creation of this page, serving as a tool for s
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
 7. [Reflective Blog 7](#reflective-blog-7)
+8. [Reflective Blog 8](#reflective-blog-8)
    
 # Wayback Analysis
 
@@ -324,4 +325,24 @@ The AI was able to generate clear and concise instructions, which provides strai
 **ChatGPT GPT-4o was utilized in the creation of this assignment serving as the generative AI tool**
 
 
+# Reflective Blog 8
+## Assignment Rationale 
+Prompt N: Use NotebookLMto analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
 
+**ChatGPT GPT-4o was utilized in the creation of this assignment serving as a tool for consistency and clarity**
+
+**Google NotebookLM was utilized in the creation of this assignment serving as the generative AI tool**
+---
+
+For this assignment, I used Google’s NotebookLM to analyze the Beautiful 6qt Digital Air Fryer manual. Getting started was simple: I logged into my Google account, uploaded the PDF of the manual, and NotebookLM quickly generated a chatbot that could apparently answer questions based on the document. It also produced a 4-minute, 6-second podcast-style AI audio summary, which was both impressive and unsettling.
+
+The audio stood out for its realism. The voices included vocal fry, hesitations, and a reassuring tone, making the two "speakers" sound convincingly human. However, the chatbot struggled with accuracy. For instance, when I asked how to use the touchscreen described on page 15, it replied: “...the provided excerpts of the user manual do not contain a description of the touch display [based on analysis of sources].” Re-uploading the file did not fix this issue.
+
+While the tool is innovative, I found it unnecessary. It may offer convenience, but it also discourages active reading and comprehension. Relying on AI to interpret documents could weaken users' analytical and critical thinking skills. While NotebookLM could benefit those with accessibility needs, it may also reduce the need for human roles in tech support and networking—fields I plan to enter. The potential for AI to replace problem-solving jobs is a concern.
+
+In summary, NotebookLM showcases powerful capabilities, but its current limitations and broader implications make me hesitant to rely on it.
+
+**ChatGPT GPT-4o was utilized in the creation of this assignment serving as a tool for consistency and clarity**
+**Google NotebookLM was utilized in the creation of this assignment serving as the generative AI tool**
+
+---
