@@ -9,16 +9,28 @@ AI tools were not used to generate this page
 
 1. [Introduction](#introduction)
 2. [Installing The Sims 4](#installing-the-sims-4)
-- [Checking if The Sims 4 is Installed](##checking-if-the-sims-4-is-installed)
+- [Checking if The Sims 4 is Installed](#checking-if-the-sims-4-is-installed)
+- [Installing The Sims 4](#installing-the-sims-4)
+    - [Installing via the EA App](#installing-via-the-ea-app)
+    - [Installing via Steam](#installing-via-steam)
 3. [Downloading the UI Cheats Extension](#downloading-the-ui-cheats-extension)
 4. [Extracting the Zip File](#extracting-the-zip-file)
-5. [Downloading the UI Cheats Extension](#dowlloading-the-ui-cheats-extension)
-6. [Extracting the Zip File](#extracting-the-zip-file)
-7. [Installing the Mod into The Sims 4](#installing-the-mod-into-the-sim-4)
-8. [Enabling Mods and Script Mods in Game Options](#enabling-mods-and-script-mods-in-game-options)
+- [Installing the Mod into The Sims 4](#installing-the-mod-into-the-sims-4)
+  - [Locate the Extracted Mod Folder](#locate-the-extracted-mod-folder)
+  - [Open The Sims 4 Mods Directory](#open-the-sims-4-mods-directory)
+  - [Move the Mod Files](#move-the-mod-files)
+  - [Verify Mod Files](#verify-mod-files)
+5. [Enabling Mods and Script Mods in Game Options](#enabling-mods-and-script-mods-in-game-options)
 9. [Verify Installation](#verify-installation)
 10. [Mods in The Sims 4 FAQs](#mods-in-the-sims-4-faqs)
-11. [Mods in The Sims 4 FAQs Cont.](#mods-in-the-sims-4-faq-cont)
+- [What is a script mod?](#what-is-a-script-mod)
+- [What is custom content?](#what-is-custom-content)
+- [Do I have to use mods or custom content to play the game?](#do-i-have-to-use-mods-or-custom-content-to-play-the-game)
+- [Are mods official content?](#are-mods-official-content)
+- [Can I use this mod with other mods?](#can-i-use-this-mod-with-other-mods)
+11. [Mods in The Sims 4 FAQs Cont.](#mods-in-the-sims-4-faqs-cont)
+- [How do I update the mod when a new version is released?](#how-do-i-update-the-mod-when-a-new-version-is-released)
+- [My mod isn’t working - what do I do?](#my-mod-isnt-working---what-do-i-do)
 12. [AI Use Statement](#ai-use-statement)
 13. [Resources](#resources)
 
@@ -83,12 +95,26 @@ b. Alternatively, right-click it and select Open file location to confirm where 
 
 If you do not see The Sims 4 in your search results, the game is not currently installed on your device.
 
+## Installing The Sims 4
+### Installing via the EA App
+### Installing via Steam
 # Downloading the UI Cheats Extension
 # Extracting the Zip File
 # Installing the Mod into The Sims 4
+## Locate the Extracted Mod Folder
+## Open The Sims 4 Mods Directory
+## Move the Mod Files
+## Verify Mod Files
 # Enabling Mods and Script Mods in Game Options
 # Verify Installation
 # Mods in The Sims 4 FAQs
+## What is a script mod?
+## What is custom content?
+## Do I have to use mods or custom content to play the game?
+## Are mods official content?
+## Can I use this mod with other mods?
 # Mods in The Sims 4 FAQs Cont.
+## How do I update the mod when a new version is released?
+## My mod isn’t working - what do I do?
 # AI Use Statement
 # Resources
