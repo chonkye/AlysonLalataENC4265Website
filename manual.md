@@ -2,6 +2,7 @@
 
 # INSTALLING THE UI CHEATS EXTENSION MOD IN THE SIMS 4 ON A WINDOWS COMPUTER
 
+<a name="Table of Contents"></a>
 # Table of Contents
 [Introduction](#introduction)
 
