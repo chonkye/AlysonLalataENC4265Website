@@ -2,7 +2,6 @@
 
 # INSTALLING THE UI CHEATS EXTENSION MOD IN THE SIMS 4 ON A WINDOWS COMPUTER
 
-<a name="Table of Contents"></a>
 # Table of Contents
 [Introduction](#introduction)
 
@@ -39,6 +38,8 @@
 
 [Resources](#resources)
 
+[🔝 Back to Table of Contents](#table-of-contents)
+
 # Introduction
 The UI Cheats Extension mod enhances gameplay in The Sims 4 by allowing players to activate cheats directly through the game's user interface, eliminating the need to manually enter commands into the cheat console.
 
@@ -58,7 +59,7 @@ This guide covers the full installation process for *UI Cheats Extension v1.47*,
 
 Note: This mod may only conflict with other UI mods that override the same interface elements. It does not conflict with other types of mods, such as script mods or tuning mods.
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Installing The Sims 4
 Before installing any mods, make sure that The Sims 4 is installed and updated on your Windows computer. If the game is not installed, the mod will have nowhere to be placed, and the modifications will not work.
@@ -97,7 +98,7 @@ Once installed, launch the game once before installing any mods to ensure that t
 
 *Documents > Electronic Arts > The Sims 4*. 
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Downloading the UI Cheats Extension
 Once you have confirmed that The Sims 4 is properly installed and ready, it’s time to download the UI Cheats Extension mod. This section will guide you through accessing the official download page and saving the correct version of the mod to your computer
@@ -109,7 +110,7 @@ Once you have confirmed that The Sims 4 is properly installed and ready, it’s 
 - After clicking the link, a small download popup should appear in the upper-right corner of your web browser (if you're using Chrome, Edge, or similar).
 - The file will automatically begin downloading to your **Downloads** folder unless you have changed your browser's default download location.
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Extracting the Zip File
 Now that you have downloaded the mod, it is time to extract the file so it can be properly installed into The Sims 4. The mod comes in a compressed .zip format, which means its contents need to be
@@ -125,7 +126,7 @@ extraction process.
 6. Select **Extract All** from the context menu.
 7. In the popup window, click **Extract**. 
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Installing the Mod into The Sims 4
 Now that the file has been extracted, it is time to move the mod to the proper folder so that The Sims 4 can recognize and load it. Simply downloading and extracting the mod is not enough—the game requires that mods be placed in a specific directory inside the user’s Documents folder. The following steps will guide you through locating the extracted files and moving them into the correct Mods folder for proper installation. 
@@ -157,7 +158,7 @@ Tip: The folder should not be nested more than one level deep. For best results,
 2. Confirm that both of the following files are present:
    a. *UI_Cheats_Extension.ts4script* and *UI_Cheats_Extension.package*
    
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Enabling Mods and Script Mods in Game Options
 Before you can use any mods in The Sims 4, including the UI Cheats Extension, you must enable them within the game settings. By default, The Sims 4 disables all mods and script mods after installation or updates. Now that the mod has been installed, follow the steps below to ensure that both custom content and script mods are activated in the game’s options menu.
@@ -174,7 +175,7 @@ Before you can use any mods in The Sims 4, including the UI Cheats Extension, yo
 6. Click **Apply Changes** in the bottom right corner of the window
 7. Close the window and in the options menu select **Exit Game**
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Verify Installation
 After enabling mods in the game settings, it’s important to confirm that the UI Cheats Extension mod has been installed correctly and is functioning as expected. Verifying the installation ensures that the mod files are recognized by the game and that the new features are accessible during gameplay.
@@ -186,7 +187,7 @@ Follow the steps below to check if the mod is active and working properly.
 - A dialogue wheel will appear with all the options the UI cheats mod has to offer.
 - If the dialogue wheel does not appear, then the mod was not installed correctly
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Mods in The Sims 4 FAQs
 ## What is a script mod?
@@ -212,17 +213,17 @@ First, double-check that both the *.ts4script* and *.package* files are placed d
 *Game Options > Other*. 
 After enabling, restart the game. 
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # AI Use Statement
 This manual was written by Alyson Lalata with assistance with the AI language model ChatGPT-4o. 
 Spellcheck was performed using Microsoft Word, and AI tools including Grammarly were used to check grammar and structure.
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
 
 # Resources
 Lee, Alex. “Tutorial: Write the Sims 4 Script Mod with Python-Part 1: Introduction.” Medium, Medium, 4 Mar. 2022, medium.com/@lli-1990/tutorial-write-the-sims-4-script-mod-with-python-part-1-introduction-6d49d0dcab92.
 
 “Custom Content.” The Sims Wiki, Fandom, Inc., sims.fandom.com/wiki/Custom_content. Accessed 8 Apr. 2025
 
-[🔝 Back to Top](#table_of_contents)
+[🔝 Back to Table of Contents](#table-of-contents)
