@@ -159,14 +159,14 @@ I was pleasantly surprised on what Microsoft Copilot was able to generate. First
 <p align="center">
   <img src= "StatusReport1.png" alt = "Copilot's First Generated Status Report">
 </p>
-<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Copilot's First Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot of Copilot's First Generated Status Report (Image by Alyson Lalata).https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
 
 The first report was highly detailed but felt overly wordy. It seemed to be written for an audience with little to no prior knowledge of the project, I didn’t specify on the type of status report (daily, weekly, monthly, internal or external) so I understood as to why the report had so much information. It effectively covered key aspects of game production, highlighting both challenges and achievements. The Progress Overview section provided an in-depth breakdown of different character design aspects. The achievements and challenges were clearly outlined, along with specific actions needed to move the project forward. 
 
 <p align="center">
   <img src= "StatusReport2.png" alt = "Copilot's Second Generated Status Report">
 </p>
-<p style="text-align:center;">Figure 1.2 - Screenshot by Alyson Lalata. "Copilot's Second Generated Status Report" https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
+<p style="text-align:center;">Figure 1.2 - Screenshot of Copilot's Second Generated Status Report (Image by Alyson Lalata). https://copilot.microsoft.com/. Accessed 10 Feb. 25.</p>
 
 In contrast, the second report was much more concise. It didn’t elaborate on every detail encountered, making it more effective for quickly informing the team about that week’s progress without being overly long or difficult to read. This version appeared to be tailored for an internal audience already familiar with the project, unlike the original report. The Progress Overview was able to summarize each aspect of character design, briefly mentioned key accomplishments for the week, and included a short description of the main issues faced.
 
@@ -208,14 +208,14 @@ GPT-Travel is a chatbot designed to assist tourists by suggesting destinations, 
 <p align="center">
   <img src= "FindHotel.png" alt = "GPT-Travel Tries to Find Cheapest Hotel">
 </p>
-<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "GPT-Travel Tries to Find Cheapest Hotel" https://poe.com/GPT-Travel. Accessed 3 Mar.</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot of GPT-Travel Tries to Find Cheapest Hotel Response (Image by Alyson Lalata) https://poe.com/GPT-Travel. Accessed 3 Mar.</p>
 
 GPT-Travel is useful for generating broad travel ideas and providing general estimates, but it lacks real-time information gathering, contextual memory, and precise budgeting tools. The cite itself is pleasant to look at, similar to many other AI tools with a dark background with white text. The chatbot is easy to use and responds quickly, but its inability to retain context and reliance on pre-existing knowledge limit its effectiveness. While structured queries improve its responses, users must be very specific to get relevant answers. 
 
 <p align="center">
   <img src= "GirlsTrip.png" alt = "GPT-Travel Compares Vacation">
 </p>
-<p style="text-align:center;">Figure 1.2 - Screenshot by Alyson Lalata. "GPT-Travel Compares Vacation" https://poe.com/GPT-Travel. Accessed 3 Mar.</p>
+<p style="text-align:center;">Figure 1.2 - Screenshot of GPT-Travel Comparing Vacations (Image by Alyson Lalata) https://poe.com/GPT-Travel. Accessed 3 Mar.</p>
 
 GPT-Travel is best suited as an initial trip-planning tool rather than a full-fledged travel assistant. The chatbot gives users general ideas, common tourist spots/ activities while using descriptive diction to paint each location in a positive light. It can help users brainstorm destinations and activities, but it can not replace real-time travel research. The chatbot was also able to successfully compare two different types of travel vacations when given details about the party going (Figure 1.2). Additionally, retaining memory from pervious inquiries would provide a smoother chatting experience so users do not have to repeat themselves. The chatbot however worked better when being very specific in the inquires entered, but it took away from the ease of use of the experience, making it less intuitive.
 
@@ -258,7 +258,7 @@ Prompt K: Use any generative AI to generate an assignment (or some other piece o
 ---
 ![Chat-GPT4o Prompt](ChatPrompt.png)
 
-<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Chat-GPT4o Prompt"</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot of Chat-GPT4o Prompt (Image by Alyson Lalata)</p>
 
 The assignment I had the AI generate was the Quick Start Guide; I fed the AI all the information given for the assignment from the Webcourses page, followed by "can you do this assignment on how to clean a leather purse/ bag?" giving the AI the topic that I wanted it to write about. (Figure 1.1) 
 
@@ -267,7 +267,7 @@ Chat-GPT was able to generate the whole assignment except for the pictures rathe
 ---
 ![Chat-GPT4o Response](ChatResponse.png)
 
-<p style="text-align:center;">Figure 1.1 - Screenshot by Alyson Lalata. "Chat-GPT4o Response"</p>
+<p style="text-align:center;">Figure 1.1 - Screenshot of Chat-GPT4o Response (Image by Alyson Lalata)</p>
 
 
 Sure! Here's a structured quick-start guide on How to Clean a Leather Purse or Bag that meets your assignment's requirements.
