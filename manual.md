@@ -70,16 +70,16 @@ This guide covers the full installation process for **UI Cheats Extension v1.47*
 Before installing any mods, make sure that The Sims 4 is installed and updated on your Windows computer. If the game is not installed, the mod will have nowhere to be placed, and the modifications will not work.
 
 ## Checking if The Sims 4 is Installed
-1. Press the **Windows key** on your keyboard or click the **Windows icon** in the bottom-left corner of
+1\. Press the **Windows key** on your keyboard or click the **Windows icon** in the bottom-left corner of
 your screen.
-2. In the search bar, type "The Sims 4".
+2\. In the search bar, type "The Sims 4".
 
 <p align="center">
   <img src= "WindowsSearchBar.png" alt = "SCREENSHOT OF WINDOWS SEARCH BAR">
 </p>
 <p style="text-align:center;"> FIGURE 1 "SCREENSHOT OF WINDOWS SEARCH BAR" (IMAGE BY ALYSON LALATA) 
     </p>
-3. If the game is installed, you should see "The Sims 4" appear as a desktop app in the search results.
+3\. If the game is installed, you should see "The Sims 4" appear as a desktop app in the search results.
    - Click **Open** to launch the game.
 **⚠️ Note: If you do not see The Sims 4 in your search results, the game is not currently installed on your device. The Sims 4 is free for download and must be installed through either the EA App or Steam. **
 
