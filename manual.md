@@ -82,31 +82,43 @@ your screen.
     </p>
 3\. If the game is installed, you should see "The Sims 4" appear as a desktop app in the search results.
    - Click **Open** to launch the game.
-**⚠️ Note: If you do not see The Sims 4 in your search results, the game is not currently installed on your device. The Sims 4 is free for download and must be installed through either the EA App or Steam. **
+   
+**⚠ Note: If you do not see The Sims 4 in your search results, the game is not currently installed on your device. The Sims 4 is free for download and must be installed through either the EA App or Steam. **
 
 ### Installing The Sims 4 via the EA App:
 1\. Download and install the EA App from: [https://www.ea.com/ea-app](https://www.ea.com/ea-app)
+
 2\. Launch the EA App and log in with your EA account.
+
 3\. In the Search bar, type “The Sims 4” and press enter.
+
 4\. Click Download
+
 <p align="center">
   <img src= "EAinstall.jpeg" alt = "EA APP THE SIMS 4 INSTALL PAGE">
 </p>
 <p style="text-align:center;"> FIGURE 2 "EA APP THE SIMS 4 INSTALL PAGE" (HTTPS://WWW.WIKIHOW.COM/INSTALL-THE-SIMS-4) ACCESSED 14 APR. 25. </p>
 5\. Select the drive you want to install the game. 
+
 6\. Press **Next**
+
 7\. The "Terms of Play Window” will appear, press **Download** to install the game to your device
+
 The Sims 4 has now been downloaded on to the Windows device through the EA app.
 
 ### Installing The Sims 4 via Steam
 1\. Open the Steam app on your device and log in.
+
 2\. Go to your **Library** tab in the upper left corner.
+
 <p align="center">
   <img src= "SteamLibrary.png" alt = "SCREENSHOT OF STEAM LIBRARY TAB LOCATION">
 </p>
 <p style="text-align:center;"> FIGURE 3"SCREENSHOT OF STEAM LIBRARY TAB LOCATION" (IMAGE BY ALYSON LALATA) </p>
 3\. Locate *The Sims 4* in your game list.
+
 a. If The Sims 4 is not in your game list, search for” The Sims 4” on the **Store** tab using the search bar in the upper-right corner.
+
 b. Press **Add to Library**
     i. Once pressed a pop up will appear confirming that The Sims 4 has been added to the *Steam Game Library*.
    ii. Press **OK**
@@ -214,7 +226,7 @@ It might follow a similar path as:
   <img src= "dragged.png" alt = "SCREENSHOT OF THE EXTRACTED FOLDER BEING DRAGGED AND DROPPED INTO THE MODS FOLDER">
 </p>
 <p style="text-align:center;"> FIGURE 12 "SCREENSHOT OF THE EXTRACTED FOLDER BEING DRAGGED AND DROPPED INTO THE MODS FOLDER" (IMAGE BY ALYSON LALATA) </p>
-**⚠️ Note: The folder should not be nested more than one level deep. For best results, place the folder directly in the Mods folder, not inside another subfolder.**
+**⚠ Note: The folder should not be nested more than one level deep. For best results, place the folder directly in the Mods folder, not inside another subfolder.**
 
 ## Verify Mod Files
 1\. Double-click the *UI_Cheats_Extension_v1.47* folder now inside the *Mods* directory.
