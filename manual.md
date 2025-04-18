@@ -259,8 +259,8 @@ After selecting the “Script Mods Allowed” box, a warning will popup.
   <img src= "warning.png" alt = "SCREENSHOT OF IN-GAME WARNING ABOUT THE USE OF SCRIPT MODS">
 </p>
 <p style="text-align:center;"> FIGURE 17 "SCREENSHOT OF IN-GAME WARNING ABOUT THE USE OF SCRIPT MODS" (IMAGE BY ALYSON LALATA) </p>
-7.	Click **Apply Changes** in the bottom right corner of the window.
-8.	Close the window and in the options menu select **Exit Game**
+7. Click **Apply Changes** in the bottom right corner of the window.
+8. Close the window and in the options menu select **Exit Game**
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
