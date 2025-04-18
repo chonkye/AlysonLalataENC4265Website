@@ -316,8 +316,19 @@ This manual was written by Alyson Lalata with assistance from the AI language mo
 [🔝 Back to Table of Contents](#table-of-contents)
 
 # Resources
-Lee, Alex. “Tutorial: Write the Sims 4 Script Mod with Python - Part 1: Introduction.” Medium, Medium, 4 Mar. 2022, medium.com/@lli-1990/tutorial-write-the-sims-4-script-mod-with-python-part-1-introduction-6d49d0dcab92. 
-“Custom Content.” The Sims Wiki, Fandom, Inc., sims.fandom.com/wiki/Custom_content. Accessed 8 Apr. 2025. 
-Dillon, Hannah. “How to Install The Sims 4: Easy Guide for PC, Mac & Console.” wikiHow, wikiHow, 17 Mar. 2025, www.wikihow.com/Install-the-Sims-4. 
+Dillon, Hannah. “How to Install The Sims 4: Easy Guide for PC, Mac & Console.” *wikiHow*, 17 Mar. 2025, www.wikihow.com/Install-the-Sims-4.
+
+“Custom Content.” *The Sims Wiki*, Fandom, sims.fandom.com/wiki/Custom_content. Accessed 8 Apr. 2025.
+
+Lee, Alex. “Tutorial: Write the Sims 4 Script Mod with Python — Part 1: Introduction.” *Medium*, 4 Mar. 2022, medium.com/@lli-1990/tutorial-write-the-sims-4-script-mod-with-python-part-1-introduction-6d49d0dcab92.
+
+Logopedia, contributors to. “The Sims 4.” *Logopedia*, Fandom, logos.fandom.com/wiki/The_Sims_4. Accessed 17 Apr. 2025.
+
+“Plumbob, Fifth Generation.” 2019.
+
+“Ui Cheats Extension Not Working Solved: EA Forums - 1104284.” *EA Forums*, forums.ea.com/discussions/the-sims-4-mods-and-custom-content-en/ui-cheats-extension-not-working-solved/1104284/replies/1104294. Accessed 17 Apr. 2025.
+
+Weerbesu. *Ui Cheats Extension v1.47*. www.patreon.com/posts/ui-cheats-v1-13-26240068. Accessed 18 Apr. 2025.
+
 
 [🔝 Back to Table of Contents](#table-of-contents)
