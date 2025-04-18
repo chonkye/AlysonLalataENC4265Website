@@ -72,6 +72,7 @@ Before installing any mods, make sure that The Sims 4 is installed and updated o
 ## Checking if The Sims 4 is Installed
 1\. Press the **Windows key** on your keyboard or click the **Windows icon** in the bottom-left corner of
 your screen.
+
 2\. In the search bar, type "The Sims 4".
 
 <p align="center">
@@ -84,27 +85,27 @@ your screen.
 **⚠️ Note: If you do not see The Sims 4 in your search results, the game is not currently installed on your device. The Sims 4 is free for download and must be installed through either the EA App or Steam. **
 
 ### Installing The Sims 4 via the EA App:
-1. Download and install the EA App from: [https://www.ea.com/ea-app](https://www.ea.com/ea-app)
-2. Launch the EA App and log in with your EA account.
-3. In the Search bar, type “The Sims 4” and press enter.
-4. Click Download
+1\. Download and install the EA App from: [https://www.ea.com/ea-app](https://www.ea.com/ea-app)
+2\. Launch the EA App and log in with your EA account.
+3\. In the Search bar, type “The Sims 4” and press enter.
+4\. Click Download
 <p align="center">
   <img src= "EAinstall.jpeg" alt = "EA APP THE SIMS 4 INSTALL PAGE">
 </p>
 <p style="text-align:center;"> FIGURE 2 "EA APP THE SIMS 4 INSTALL PAGE" (HTTPS://WWW.WIKIHOW.COM/INSTALL-THE-SIMS-4) ACCESSED 14 APR. 25. </p>
-5. Select the drive you want to install the game. 
-6. Press **Next**
-7. The "Terms of Play Window” will appear, press **Download** to install the game to your device
+5\. Select the drive you want to install the game. 
+6\. Press **Next**
+7\. The "Terms of Play Window” will appear, press **Download** to install the game to your device
 The Sims 4 has now been downloaded on to the Windows device through the EA app.
 
 ### Installing The Sims 4 via Steam
-1. Open the Steam app on your device and log in.
-2. Go to your **Library** tab in the upper left corner.
+1\. Open the Steam app on your device and log in.
+2\. Go to your **Library** tab in the upper left corner.
 <p align="center">
   <img src= "SteamLibrary.png" alt = "SCREENSHOT OF STEAM LIBRARY TAB LOCATION">
 </p>
 <p style="text-align:center;"> FIGURE 3"SCREENSHOT OF STEAM LIBRARY TAB LOCATION" (IMAGE BY ALYSON LALATA) </p>
-3. Locate *The Sims 4* in your game list.
+3\. Locate *The Sims 4* in your game list.
 a. If The Sims 4 is not in your game list, search for” The Sims 4” on the **Store** tab using the search bar in the upper-right corner.
 b. Press **Add to Library**
     i. Once pressed a pop up will appear confirming that The Sims 4 has been added to the *Steam Game Library*.
@@ -113,12 +114,12 @@ b. Press **Add to Library**
   <img src= "SteamConfirmation.png" alt = "SCREENSHOT OF THE CONFIRMATION POPUP">
 </p>
 <p style="text-align:center;"> FIGURE 4 "SCREENSHOT OF THE CONFIRMATION POPUP" (IMAGE BY ALYSON LALATA) </p>
-4. Click **Play Game**
+4\. Click **Play Game**
 <p align="center">
   <img src= "PlayGame.png" alt = "SCREENSHOT OF PLAY GAME BUTTON">
 </p>
 <p style="text-align:center;"> FIGURE 5 "SCREENSHOT OF PLAY GAME BUTTON" (IMAGE BY ALYSON LALATA) </p>
-5. Select the drive you want to install the game to and wait for the game to download.
+5\. Select the drive you want to install the game to and wait for the game to download.
 Once installed, launch the game once before installing any mods to ensure that the required game folders (such as the Mods folder) are created inside:
 *Documents > Electronic Arts > The Sims 4*
 
@@ -130,14 +131,14 @@ Once you have confirmed that The Sims 4 is properly installed and ready, it’s 
   <img src= "PatreonPage.png" alt = "SCREENSHOT OF THE PATERON WEBSITE FOR THE UI CHEATS EXTENSION">
 </p>
 <p style="text-align:center;"> FIGURE 6 “SCREENSHOT OF THE PATERON WEBSITE FOR THE UI CHEATS EXTENSION” (IMAGE BY ALYSON LALATA) </p>
-1. Go to Weerbesu's Patreon page: 
+1\. Go to Weerbesu's Patreon page: 
 [https://www.patreon.com/posts/ui-cheats-v1-13-26240068](https://www.patreon.com/posts/ui-cheats-v1-13-26240068)
-2. Scroll down to the **Attachments** section (below the post but above the comments).
+2\. Scroll down to the **Attachments** section (below the post but above the comments).
 <p align="center">
   <img src= "zipLocation.png" alt = "SCREENSHOT OF THE LOCATION OF THE .ZIP FILE ON THE PATERON PAGE">
 </p>
 <p style="text-align:center;"> FIGURE 7 “SCREENSHOT OF THE LOCATION OF THE .ZIP FILE ON THE PATERON PAGE” (IMAGE BY ALYSON LALATA) </p>
-4. Click **UI_Cheats_Extension_v1.47.zip** to begin downloading the file.
+3\. Click **UI_Cheats_Extension_v1.47.zip** to begin downloading the file.
 - After clicking the link, a small download popup should appear in the upper-right corner of your web browser (if you're using Chrome, Edge, or similar).
 - The file will automatically begin downloading to your **Downloads** folder unless you have changed your browser's default download location.
 
@@ -149,19 +150,19 @@ The UI Cheats Extension Mod is now downloaded into your files. Now its time to e
 Now that you have downloaded the mod, it is time to extract the file so it can be properly installed into The Sims 4. The mod comes in a compressed .zip format, which means its contents need to be
 unpacked before the game can read and use them. Extracting the zip file will reveal the necessary files that you will later move into the Sims 4 Mods folder. Follow the steps below to complete the extraction process. 
 
-1. Locate File Explorer
+1\. Locate File Explorer
 - Press the Windows Icon in the lower left-hand side of your screen.
 - In the search bar, type “File Explorer”
 - Select the **Open** option in the menu.
-2. Navigate to the *Downloads* folder.
-3. Select the *UI_Cheats_Extension_v1.47.zip* so that it has a blue check mark next to it
-4. Right-click on *UI_Cheats_Extension_v1.47.zip*.
-5. Select **Extract All** from the context menu.
+2\. Navigate to the *Downloads* folder.
+3\. Select the *UI_Cheats_Extension_v1.47.zip* so that it has a blue check mark next to it
+4\. Right-click on *UI_Cheats_Extension_v1.47.zip*.
+5\. Select **Extract All** from the context menu.
 <p align="center">
   <img src= "extractAll.png" alt = "SCREENSHOT OF THE 'EXTRACT ALL' OPTION IN FILE EXPLORER">
 </p>
 <p style="text-align:center;"> FIGURE 8 “SCREENSHOT OF THE 'EXTRACT ALL' OPTION IN FILE EXPLORER” (IMAGE BY ALYSON LALATA) </p>
-6. In the popup window, click **Extract**. 
+6\. In the popup window, click **Extract**. 
 <p align="center">
   <img src= "extractWindow.png" alt = "SCREENSHOT OF THE EXTRACT POPUP WINDOW">
 </p>
@@ -174,32 +175,32 @@ With the mod now extracted into a copied folder, it is time to move the file int
 Now that the file has been extracted, it is time to move the mod to the proper folder so that The Sims 4 can recognize and load it. Simply downloading and extracting the mod is not enough—the game requires that mods be placed in a specific directory inside the user’s Documents folder. The following steps will guide you through locating the extracted files and moving them into the correct Mods folder for proper installation. 
 
 ## Locate the Extracted Mod Folder
-1. Open **File Explorer**
+1\. Open **File Explorer**
 - Press the Windows Icon in the lower left-hand side of your screen.
 - In the search bar, type “File Explorer”
 - Select the **Open** option in the menu.
-2. Navigate to the *Downloads* Folder
-3. Locate the folder named *UI_Cheats_Extension_v1.47* next to the original *.zip* file.
-4. Double-click the folder to open it.
+2\. Navigate to the *Downloads* Folder
+3\. Locate the folder named *UI_Cheats_Extension_v1.47* next to the original *.zip* file.
+4\. Double-click the folder to open it.
 <p align="center">
   <img src= "extractedFiles.png" alt = "SCREENSHOT OF THE EXTRACTED FILES">
 </p>
 <p style="text-align:center;"> FIGURE 10 " SCREENSHOT OF THE EXTRACTED FILES" (IMAGE BY ALYSON LALATA) </p>
-5. Inside, confirm that it contains two files:
+5\. Inside, confirm that it contains two files:
 - *UI_Cheats_Extension.ts4script*
 - *UI_Cheats_Extension.package* 
-6. After ensuring that the two files are in the folder press the left pointing arrow in the top left-hand corner to go back to the downloads folder.
+6\. After ensuring that the two files are in the folder press the left pointing arrow in the top left-hand corner to go back to the downloads folder.
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
 ## Open The Sims 4 Mods Directory
-1. Open a new *File Explorer* window:
+1\. Open a new *File Explorer* window:
 - Right-click the *File Explorer* icon on your taskbar along the bottom of the screen.
 - Click *File Explorer* to launch a second window.
-2. In the new window, navigate to the drive The Sims 4 has been downloaded.
-3. Open the folder of the launcher the game was downloaded through *(e.g., EA App or Steam)*
-4. Open *The Sims 4* folder
-5. Open the *Mods* folder
+2\. In the new window, navigate to the drive The Sims 4 has been downloaded.
+3\. Open the folder of the launcher the game was downloaded through *(e.g., EA App or Steam)*
+4\. Open *The Sims 4* folder
+5\. Open the *Mods* folder
 It might follow a similar path as:
 <p align="center">
   <img src= "modsPath.png" alt = "FILE PATH FOR THE SIMS 4 MODS FOLDER">
@@ -207,8 +208,8 @@ It might follow a similar path as:
 <p style="text-align:center;"> FIGURE 11 "FILE PATH FOR THE SIMS 4 MODS FOLDER" (IMAGE BY ALYSON LALATA) </p>
 
 ## Move the Mod Files
-1. In the original *File Explorer* window (*Downloads* folder), select the *UI_Cheats_Extension_v1.47* folder.
-2. Drag and drop the entire folder into the *Mods* folder located inside *The Sims 4* directory. 
+1\. In the original *File Explorer* window (*Downloads* folder), select the *UI_Cheats_Extension_v1.47* folder.
+2\. Drag and drop the entire folder into the *Mods* folder located inside *The Sims 4* directory. 
 <p align="center">
   <img src= "dragged.png" alt = "SCREENSHOT OF THE EXTRACTED FOLDER BEING DRAGGED AND DROPPED INTO THE MODS FOLDER">
 </p>
@@ -216,8 +217,8 @@ It might follow a similar path as:
 **⚠️ Note: The folder should not be nested more than one level deep. For best results, place the folder directly in the Mods folder, not inside another subfolder.**
 
 ## Verify Mod Files
-1. Double-click the *UI_Cheats_Extension_v1.47* folder now inside the *Mods* directory.
-2. Confirm that both of the following files are present:
+1\. Double-click the *UI_Cheats_Extension_v1.47* folder now inside the *Mods* directory.
+2\. Confirm that both of the following files are present:
 - *UI_Cheats_Extension.ts4script* and *UI_Cheats_Extension.package*
 <p align="center">
   <img src= "filePlacement.png" alt = "SCREENSHOT OF THE TWO FILES SUCCESSFULLY COPIED INTO THE MODS FOLDER">
@@ -229,22 +230,22 @@ With the mods in the proper folder, it is now time to adjust your in-game settin
 
 # Enabling Mods and Script Mods in Game Options
 Before you can use any mods in The Sims 4, including the UI Cheats Extension, you must enable them within the game settings. By default, The Sims 4 disables all mods and script mods after installation or updates. Now that the mod has been installed, follow the steps below to ensure that both custom content and script mods are activated in the game’s options menu.
-1. Launch The Sims 4 app.
+1\. Launch The Sims 4 app.
    - Press the **Windows** icon on the lower left-hand side of your screen.
    - In the search bar, type *The Sims 4*
    - Select the **Open** option from the menu.
-2. Select the **Menu button** in the top right-hand corner of the screen.
+2\. Select the **Menu button** in the top right-hand corner of the screen.
 <p align="center">
   <img src= "Menu.png" alt = "SCREENSHOT OF THE LOCATION OF THE MAIN MENU BUTTON ON THE MAIN MENU">
 </p>
 <p style="text-align:center;"> FIGURE 14 "SCREENSHOT OF THE LOCATION OF THE MAIN MENU" (IMAGE BY ALYSON LALATA) </p>
-3. Select the third option, **Game Options**
+3\. Select the third option, **Game Options**
 <p align="center">
   <img src= "OptionsMenu.png" alt = "SCREENSHOT OF THE LOCATION OF THE 'GAME OPTIONS' BUTTON ON THE MAIN MENU">
 </p>
 <p style="text-align:center;"> FIGURE 15 "SCREENSHOT OF THE LOCATION OF THE 'GAME OPTIONS' BUTTON" (IMAGE BY ALYSON LALATA) </p>
-4. Click the **Other** tab on the left-hand side of the menu.
-5. Check both:
+4\. Click the **Other** tab on the left-hand side of the menu.
+5\. Check both:
 - *Enable Custom Content and Mods*
 - *Script Mods Allowed*
 <p align="center">
@@ -253,14 +254,14 @@ Before you can use any mods in The Sims 4, including the UI Cheats Extension, yo
 <p style="text-align:center;"> FIGURE 16 "SCREENSHOT WITH BOTH REQUIRED OPTIONS TURNED ON" (IMAGE BY ALYSON LALATA) </p>
 
 After selecting the “Script Mods Allowed” box, a warning will popup. 
-6. Press the **check mark** on the popup.
+6\. Press the **check mark** on the popup.
 - Doing so agrees with your acknowledgement that script mods can affect the game negatively, and the game must be reset to apply the changes.
 <p align="center">
   <img src= "warning.png" alt = "SCREENSHOT OF IN-GAME WARNING ABOUT THE USE OF SCRIPT MODS">
 </p>
 <p style="text-align:center;"> FIGURE 17 "SCREENSHOT OF IN-GAME WARNING ABOUT THE USE OF SCRIPT MODS" (IMAGE BY ALYSON LALATA) </p>
-7. Click **Apply Changes** in the bottom right corner of the window.
-8. Close the window and in the options menu select **Exit Game**
+7\. Click **Apply Changes** in the bottom right corner of the window.
+8\. Close the window and in the options menu select **Exit Game**
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
@@ -268,16 +269,16 @@ After selecting the “Script Mods Allowed” box, a warning will popup.
 After enabling mods in the game settings, it’s important to confirm that the UI Cheats Extension mod has been installed correctly and is functioning as expected. Verifying the installation ensures that the mod files are recognized by the game and that the new features are accessible during gameplay.
 
 Follow the steps below to check if the mod is active and working properly.
-1. Launch The Sims 4.
-2. Load any household.
-3. Press the **Escape button** on the keyboard to open the Menu
-4. Select the third option, **Game Options**
-5. Click the **Other** tab on the left-hand side of the menu
+1\. Launch The Sims 4.
+2\. Load any household.
+3\. Press the **Escape button** on the keyboard to open the Menu
+4\. Select the third option, **Game Options**
+5\. Click the **Other** tab on the left-hand side of the menu
 <p align="center">
   <img src= "viewCC.png" alt = "SCREENSHOT OF THE 'VIEW CUSTOM CONTENT' BUTTON">
 </p>
 <p style="text-align:center;"> FIGURE 18 "SCREENSHOT OF THE 'VIEW CUSTOM CONTENT' BUTTON" (IMAGE BY ALYSON LALATA) </p>
-6. Select the View Custom Content button.
+6\. Select the View Custom Content button.
 Here all the Custom Content and Script Mods active in game will be shown.  
 
 Ensure that under *Custom Content* the *UI_Cheats_Extension* is there. Ensure that under **Script Mods** and UI_Cheats_Extension_Scripts is also there.
