@@ -62,7 +62,7 @@ With this mod, players can control or modify elements within the following panel
 
 This guide covers the full installation process for **UI Cheats Extension v1.47**, which is compatible with **The Sims 4 game version 1.113.277**. This version of the mod is not compatible with earlier versions of the game.
 
-**⚠️ Note: This mod may only conflict with other UI mods that override the same interface elements. It does not conflict with other types of mods, such as script mods or tuning mods.**
+**⚠ Note: This mod may only conflict with other UI mods that override the same interface elements. It does not conflict with other types of mods, such as script mods or tuning mods.**
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
