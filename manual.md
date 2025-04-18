@@ -41,6 +41,8 @@
 
 [Resources](#resources)
 
+[PDF Version of the Manual](#pdf-version-of-the-manual)
+
 [🔝 Back to Table of Contents](#table-of-contents)
 
 # Introduction
@@ -313,8 +315,6 @@ After enabling, restart the game.
 # AI Use Statement
 This manual was written by Alyson Lalata with assistance from the AI language model ChatGPT-4o (April 2025 version). Additional grammar and spelling edits were made using Grammarly and the Microsoft Word text editor.
 
-[🔝 Back to Table of Contents](#table-of-contents)
-
 # Resources
 Dillon, Hannah. “How to Install The Sims 4: Easy Guide for PC, Mac & Console.” *wikiHow*, 17 Mar. 2025, www.wikihow.com/Install-the-Sims-4.
 
@@ -330,5 +330,7 @@ Logopedia, contributors to. “The Sims 4.” *Logopedia*, Fandom, logos.fandom.
 
 Weerbesu. *Ui Cheats Extension v1.47*. www.patreon.com/posts/ui-cheats-v1-13-26240068. Accessed 18 Apr. 2025.
 
+# PDF Version of the Manual
+[Click Here!](ENC4265ManualALalata.pdf)
 
 [🔝 Back to Table of Contents](#table-of-contents)
