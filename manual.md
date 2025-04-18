@@ -124,7 +124,7 @@ Once installed, launch the game once before installing any mods to ensure that t
 # Downloading the UI Cheats Extension
 Once you have confirmed that The Sims 4 is properly installed and ready, it’s time to download the UI Cheats Extension mod. This section will guide you through accessing the official download page and saving the correct version of the mod to your computer
 <p align="center">
-  <img src= "PatreonPage.png" alt = "SCREENSHOT OF THE PATERON WEBSITE FOR THE UI CHEATS EXTENSION">
+  <img src= "PatreonPage.jpeg" alt = "SCREENSHOT OF THE PATERON WEBSITE FOR THE UI CHEATS EXTENSION">
 </p>
 <p style="text-align:center;"> FIGURE 6 “SCREENSHOT OF THE PATERON WEBSITE FOR THE UI CHEATS EXTENSION” (IMAGE BY ALYSON LALATA) </p>
 1. Go to Weerbesu's Patreon page: 
