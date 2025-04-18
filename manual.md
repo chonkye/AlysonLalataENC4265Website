@@ -89,7 +89,7 @@ your screen.
 3. In the Search bar, type “The Sims 4” and press enter.
 4. Click Download
 <p align="center">
-  <img src= "EAinstall.png" alt = "EA APP THE SIMS 4 INSTALL PAGE">
+  <img src= "EAinstall.jpeg" alt = "EA APP THE SIMS 4 INSTALL PAGE">
 </p>
 <p style="text-align:center;"> FIGURE 2 "EA APP THE SIMS 4 INSTALL PAGE" (HTTPS://WWW.WIKIHOW.COM/INSTALL-THE-SIMS-4) ACCESSED 14 APR. 25. </p>
 5. Select the drive you want to install the game. 
