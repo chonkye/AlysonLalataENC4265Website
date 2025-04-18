@@ -120,9 +120,8 @@ The Sims 4 has now been downloaded on to the Windows device through the EA app.
 a. If The Sims 4 is not in your game list, search for” The Sims 4” on the **Store** tab using the search bar in the upper-right corner.
 
 b. Press **Add to Library**
-    i. Once pressed a pop up will appear confirming that The Sims 4 has been added to the *Steam Game Library*.
-    
-   ii. Press **OK**
+  - Once pressed a pop up will appear confirming that The Sims 4 has been added to the *Steam Game Library*.
+  - Press **OK**
    
 <p align="center">
   <img src= "SteamConfirmation.png" alt = "SCREENSHOT OF THE CONFIRMATION POPUP">
@@ -171,7 +170,7 @@ unpacked before the game can read and use them. Extracting the zip file will rev
 - Press the Windows Icon in the lower left-hand side of your screen.
 - In the search bar, type “File Explorer”
 - Select the **Open** option in the menu.
-- 
+
 2\. Navigate to the *Downloads* folder.
 
 3\. Select the *UI_Cheats_Extension_v1.47.zip* so that it has a blue check mark next to it
