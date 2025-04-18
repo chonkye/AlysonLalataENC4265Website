@@ -223,12 +223,12 @@ Before you can use any mods in The Sims 4, including the UI Cheats Extension, yo
    - Select the **Open** option from the menu.
 2. Select the **Menu button** in the top right-hand corner of the screen.
 <p align="center">
-  <img src= "OptionsMenu.png" alt = "SCREENSHOT OF THE LOCATION OF THE MAIN MENU " BUTTON ON THE MAIN MENU">
+  <img src= "Menu.png" alt = "SCREENSHOT OF THE LOCATION OF THE MAIN MENU BUTTON ON THE MAIN MENU">
 </p>
 <p style="text-align:center;"> FIGURE 14 "SCREENSHOT OF THE LOCATION OF THE MAIN MENU" (IMAGE BY ALYSON LALATA) </p>
 3. Select the third option, **Game Options**
 <p align="center">
-  <img src= "OptionsMenu.png" alt = "SCREENSHOT OF THE LOCATION OF THE 'GAME OPTIONS' BUTTON" BUTTON ON THE MAIN MENU">
+  <img src= "OptionsMenu.png" alt = "SCREENSHOT OF THE LOCATION OF THE 'GAME OPTIONS' BUTTON ON THE MAIN MENU">
 </p>
 <p style="text-align:center;"> FIGURE 15 "SCREENSHOT OF THE LOCATION OF THE 'GAME OPTIONS' BUTTON" (IMAGE BY ALYSON LALATA) </p>
 4. Click the Other tab on the left-hand side of the menu.
