@@ -83,7 +83,7 @@ your screen.
 3\. If the game is installed, you should see "The Sims 4" appear as a desktop app in the search results.
    - Click **Open** to launch the game.
    
-**⚠ Note: If you do not see The Sims 4 in your search results, the game is not currently installed on your device. The Sims 4 is free for download and must be installed through either the EA App or Steam. **
+**⚠ Note: If you do not see The Sims 4 in your search results, the game is not currently installed on your device. The Sims 4 is free for download and must be installed through either the EA App or Steam.**
 
 ### Installing The Sims 4 via the EA App:
 1\. Download and install the EA App from: [https://www.ea.com/ea-app](https://www.ea.com/ea-app)
