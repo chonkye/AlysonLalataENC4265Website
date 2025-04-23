@@ -11,6 +11,7 @@ ChatGPT GPT-4 was utilized in the creation of this page, serving as a tool for s
 6. [Reflective Blog 6](#reflective-blog-6)
 7. [Reflective Blog 7](#reflective-blog-7)
 8. [Reflective Blog 8](#reflective-blog-8)
+9. [Final Reflective Post](#final-reflective-post) 
    
 # Wayback Analysis
 
@@ -330,7 +331,6 @@ The AI was able to generate clear and concise instructions, which provides strai
 Prompt N: Use NotebookLMto analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
 
 **ChatGPT GPT-4o was utilized in the creation of this assignment serving as a tool for consistency and clarity**
-
 **Google NotebookLM was utilized in the creation of this assignment serving as the generative AI tool**
 ---
 
@@ -346,3 +346,33 @@ In summary, NotebookLM showcases powerful capabilities, but its current limitati
 **Google NotebookLM was utilized in the creation of this assignment serving as the generative AI tool**
 
 ---
+
+# Final Reflective Post 
+## Assignment Rational 
+Reflect on the semester. What have you learned? How have you grown? Are you closer to your career goals than when you started? What are you proud of, and what will you work to avoid in the future? 
+- What have you learned this semester? 
+- What was this class experience like for you?  
+- How has your work in this course helped to move you closer to your goals? 
+- What was your experience like with AI in this course? (Boodlebox or anything else you used) Do you feel prepared to responsibly use these tools in your future career (where appropriate)? 
+
+**ChatGPT GPT-4o was utilized in the creation of this assignment serving as a tool for consistency and clarity.**
+**Microsoft Editor was used for spelling and grammar checks.**
+
+## Self-Evaluation: Reflecting on My Growth in Technical Writing 
+
+This semester, I deepened my understanding of effective technical writing and how to apply it in both academic and professional contexts. I learned how to structure content clearly, emphasize key information through formatting, and make better use of white space to enhance readability. These practices helped me refine my writing to be more concise and impactful. I know these skills will be essential in my future career in Information Technology. 
+
+One of the most engaging aspects of this course was the opportunity to integrate AI tools into my work. In contrast to other courses that restrict the use of generative AI, this class encouraged thoughtful experimentation with tools like ChatGPT and Boodlebox. I primarily used ChatGPT-4o to enhance my writing, not by generating full responses but by refining what I had already written. This approach allowed me to stay true to my voice while still benefiting from AI’s editing support. 
+
+I also enjoyed building a website using GitHub Markdown. Coding the site and seeing the final product come together was a rewarding experience. It gave me hands-on practice with documentation tools that are highly relevant in the tech industry. The website now serves as a polished artifact of my learning. And it has become something I can confidently include in my portfolio. 
+
+One course element I especially appreciated was the Showcase: assignments. I enjoyed receiving constructive feedback from my peers and gaining insight by reviewing their work as well. Seeing different writing approaches and creative choices helped me better evaluate my own work and helped me improve. It made the course feel more collaborative, even in an online setting. 
+
+Throughout this course, I’ve grown not only as a writer but as a future IT professional. The work I’ve done here directly supports my long-term goals by helping me practice professional communication and gain comfort with tools I will likely use in the field. 
+
+Looking ahead, I plan to continue refining my writing and technical documentation skills. I’ve learned the importance of starting early, seeking feedback, and using AI responsibly and not as a shortcut, but as a smart tool for revision and growth.  
+
+This course has made me more confident in my ability to communicate clearly, collaborate with technology, and present myself professionally. I’m closer to my career goals now than I was at the start of the semester and I have the tools to keep moving forward. 
+
+**ChatGPT GPT-4o was utilized in the creation of this assignment serving as a tool for consistency and clarity.**
+**Microsoft Editor was used for spelling and grammar checks.**
